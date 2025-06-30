@@ -1,0 +1,1534 @@
+input_units,label_unit
+"['Graves', 'Jarvan', 'Gragas', 'Vex', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Zed']",Alistar
+"['Alistar', 'Jarvan', 'Gragas', 'Vex', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Zed']",Graves
+"['Alistar', 'Graves', 'Gragas', 'Vex', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Zed']",Jarvan
+"['Alistar', 'Graves', 'Jarvan', 'Vex', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Zed']",Gragas
+"['Alistar', 'Graves', 'Jarvan', 'Gragas', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Zed']",Vex
+"['Alistar', 'Graves', 'Jarvan', 'Gragas', 'Vex', 'Zac', 'Garen', 'Viego', 'Zed']",Aphelios
+"['Alistar', 'Graves', 'Jarvan', 'Gragas', 'Vex', 'Aphelios', 'Garen', 'Viego', 'Zed']",Zac
+"['Alistar', 'Graves', 'Jarvan', 'Gragas', 'Vex', 'Aphelios', 'Zac', 'Viego', 'Zed']",Garen
+"['Alistar', 'Graves', 'Jarvan', 'Gragas', 'Vex', 'Aphelios', 'Zac', 'Garen', 'Zed']",Viego
+"['Alistar', 'Graves', 'Jarvan', 'Gragas', 'Vex', 'Aphelios', 'Zac', 'Garen', 'Viego']",Zed
+"['Shaco', 'Vayne', 'Rhaast', 'Senna', 'Jarvan', 'Zed', 'Zac', 'Renekton']",DrMundo
+"['DrMundo', 'Vayne', 'Rhaast', 'Senna', 'Jarvan', 'Zed', 'Zac', 'Renekton']",Shaco
+"['DrMundo', 'Shaco', 'Rhaast', 'Senna', 'Jarvan', 'Zed', 'Zac', 'Renekton']",Vayne
+"['DrMundo', 'Shaco', 'Vayne', 'Senna', 'Jarvan', 'Zed', 'Zac', 'Renekton']",Rhaast
+"['DrMundo', 'Shaco', 'Vayne', 'Rhaast', 'Jarvan', 'Zed', 'Zac', 'Renekton']",Senna
+"['DrMundo', 'Shaco', 'Vayne', 'Rhaast', 'Senna', 'Zed', 'Zac', 'Renekton']",Jarvan
+"['DrMundo', 'Shaco', 'Vayne', 'Rhaast', 'Senna', 'Jarvan', 'Zac', 'Renekton']",Zed
+"['DrMundo', 'Shaco', 'Vayne', 'Rhaast', 'Senna', 'Jarvan', 'Zed', 'Renekton']",Zac
+"['DrMundo', 'Shaco', 'Vayne', 'Rhaast', 'Senna', 'Jarvan', 'Zed', 'Zac']",Renekton
+"['Gragas', 'Vex', 'Sejuani', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Aurora']",Morgana
+"['Morgana', 'Vex', 'Sejuani', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Aurora']",Gragas
+"['Morgana', 'Gragas', 'Sejuani', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Aurora']",Vex
+"['Morgana', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Aurora']",Sejuani
+"['Morgana', 'Gragas', 'Vex', 'Sejuani', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Aurora']",Chogath
+"['Morgana', 'Gragas', 'Vex', 'Sejuani', 'Chogath', 'Renekton', 'Garen', 'Urgot', 'Aurora']",Zac
+"['Morgana', 'Gragas', 'Vex', 'Sejuani', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Aurora']",Renekton
+"['Morgana', 'Gragas', 'Vex', 'Sejuani', 'Chogath', 'Zac', 'Renekton', 'Urgot', 'Aurora']",Garen
+"['Morgana', 'Gragas', 'Vex', 'Sejuani', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Aurora']",Urgot
+"['Morgana', 'Gragas', 'Vex', 'Sejuani', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot']",Aurora
+"['Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Poppy
+"['Morgana', 'Poppy', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Poppy', 'Elise', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Gragas
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",MissFortune
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Renekton', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko']",Aurora
+"['Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Poppy
+"['Morgana', 'Poppy', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Poppy', 'Elise', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Gragas
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",MissFortune
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Renekton', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko']",Aurora
+"['Vex', 'Chogath', 'Zac', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Chogath', 'Zac', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Aurora']",Vex
+"['Morgana', 'Vex', 'Zac', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Aurora']",Chogath
+"['Morgana', 'Vex', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Vex', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Vex', 'Chogath', 'Zac', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Vex', 'Chogath', 'Zac', 'Zac', 'Renekton', 'Urgot', 'Kobuko', 'Aurora']",Garen
+"['Morgana', 'Vex', 'Chogath', 'Zac', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Urgot
+"['Morgana', 'Vex', 'Chogath', 'Zac', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Aurora']",Kobuko
+"['Morgana', 'Vex', 'Chogath', 'Zac', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko']",Aurora
+"['KogMaw', 'TwistedFate', 'LeBlanc', 'Draven', 'Galio', 'Zeri', 'Zac', 'Renekton', 'Galio']",Kindred
+"['Kindred', 'TwistedFate', 'LeBlanc', 'Draven', 'Galio', 'Zeri', 'Zac', 'Renekton', 'Galio']",KogMaw
+"['Kindred', 'KogMaw', 'LeBlanc', 'Draven', 'Galio', 'Zeri', 'Zac', 'Renekton', 'Galio']",TwistedFate
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zeri', 'Zac', 'Renekton', 'Galio']",LeBlanc
+"['Kindred', 'KogMaw', 'TwistedFate', 'LeBlanc', 'Galio', 'Zeri', 'Zac', 'Renekton', 'Galio']",Draven
+"['Kindred', 'KogMaw', 'TwistedFate', 'LeBlanc', 'Draven', 'Zeri', 'Zac', 'Renekton', 'Galio']",Galio
+"['Kindred', 'KogMaw', 'TwistedFate', 'LeBlanc', 'Draven', 'Galio', 'Zac', 'Renekton', 'Galio']",Zeri
+"['Kindred', 'KogMaw', 'TwistedFate', 'LeBlanc', 'Draven', 'Galio', 'Zeri', 'Renekton', 'Galio']",Zac
+"['Kindred', 'KogMaw', 'TwistedFate', 'LeBlanc', 'Draven', 'Galio', 'Zeri', 'Zac', 'Galio']",Renekton
+"['Kindred', 'KogMaw', 'TwistedFate', 'LeBlanc', 'Draven', 'Galio', 'Zeri', 'Zac', 'Renekton']",Galio
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Rhaast']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Rhaast']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Rhaast']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Rhaast']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Viego', 'Rhaast']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Viego', 'Rhaast']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Viego', 'Rhaast']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego', 'Rhaast']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Rhaast']",Viego
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",Rhaast
+"['Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Annie', 'Renekton']",Alistar
+"['Alistar', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Annie', 'Renekton']",Graves
+"['Alistar', 'Graves', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Annie', 'Renekton']",Rhaast
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Annie', 'Renekton']",Senna
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Gragas', 'Vex', 'Annie', 'Renekton']",Jarvan
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Annie', 'Renekton']",Gragas
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Annie', 'Renekton']",Vex
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Renekton']",Annie
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Annie']",Renekton
+"['Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Garen', 'Aurora', 'Viego', 'Rengar']",Sylas
+"['Sylas', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Garen', 'Aurora', 'Viego', 'Rengar']",Seraphine
+"['Sylas', 'Seraphine', 'Illaoi', 'Xayah', 'Leona', 'Garen', 'Aurora', 'Viego', 'Rengar']",Jhin
+"['Sylas', 'Seraphine', 'Jhin', 'Xayah', 'Leona', 'Garen', 'Aurora', 'Viego', 'Rengar']",Illaoi
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Leona', 'Garen', 'Aurora', 'Viego', 'Rengar']",Xayah
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Garen', 'Aurora', 'Viego', 'Rengar']",Leona
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Aurora', 'Viego', 'Rengar']",Garen
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Garen', 'Viego', 'Rengar']",Aurora
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Garen', 'Aurora', 'Rengar']",Viego
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Garen', 'Aurora', 'Viego']",Rengar
+"['Graves', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Annie', 'Aphelios']",Alistar
+"['Alistar', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Annie', 'Aphelios']",Graves
+"['Alistar', 'Graves', 'Senna', 'Jarvan', 'Vex', 'Annie', 'Aphelios']",Rhaast
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Aphelios']",Senna
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Vex', 'Annie', 'Aphelios']",Jarvan
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Annie', 'Aphelios']",Vex
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Aphelios']",Annie
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Annie']",Aphelios
+"['KogMaw', 'TwistedFate', 'Draven', 'Mordekaiser', 'Sejuani', 'Zeri', 'Renekton', 'Kobuko', 'Viego', 'NidaleeCougar']",Kindred
+"['Kindred', 'TwistedFate', 'Draven', 'Mordekaiser', 'Sejuani', 'Zeri', 'Renekton', 'Kobuko', 'Viego', 'NidaleeCougar']",KogMaw
+"['Kindred', 'KogMaw', 'Draven', 'Mordekaiser', 'Sejuani', 'Zeri', 'Renekton', 'Kobuko', 'Viego', 'NidaleeCougar']",TwistedFate
+"['Kindred', 'KogMaw', 'TwistedFate', 'Mordekaiser', 'Sejuani', 'Zeri', 'Renekton', 'Kobuko', 'Viego', 'NidaleeCougar']",Draven
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Sejuani', 'Zeri', 'Renekton', 'Kobuko', 'Viego', 'NidaleeCougar']",Mordekaiser
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Mordekaiser', 'Zeri', 'Renekton', 'Kobuko', 'Viego', 'NidaleeCougar']",Sejuani
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Mordekaiser', 'Sejuani', 'Renekton', 'Kobuko', 'Viego', 'NidaleeCougar']",Zeri
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Mordekaiser', 'Sejuani', 'Zeri', 'Kobuko', 'Viego', 'NidaleeCougar']",Renekton
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Mordekaiser', 'Sejuani', 'Zeri', 'Renekton', 'Viego', 'NidaleeCougar']",Kobuko
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Mordekaiser', 'Sejuani', 'Zeri', 'Renekton', 'Kobuko', 'NidaleeCougar']",Viego
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Mordekaiser', 'Sejuani', 'Zeri', 'Renekton', 'Kobuko', 'Viego']",NidaleeCougar
+"['Gragas', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Aurora', 'Viego', 'Zac']",Mordekaiser
+"['Mordekaiser', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Aurora', 'Viego', 'Zac']",Gragas
+"['Mordekaiser', 'Gragas', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Aurora', 'Viego', 'Zac']",Vex
+"['Mordekaiser', 'Gragas', 'Vex', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Aurora', 'Viego', 'Zac']",Chogath
+"['Mordekaiser', 'Gragas', 'Vex', 'Chogath', 'Garen', 'Urgot', 'Kobuko', 'Aurora', 'Viego', 'Zac']",Zac
+"['Mordekaiser', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Urgot', 'Kobuko', 'Aurora', 'Viego', 'Zac']",Garen
+"['Mordekaiser', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Garen', 'Kobuko', 'Aurora', 'Viego', 'Zac']",Urgot
+"['Mordekaiser', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Aurora', 'Viego', 'Zac']",Kobuko
+"['Mordekaiser', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Zac']",Aurora
+"['Mordekaiser', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Aurora', 'Zac']",Viego
+"['Mordekaiser', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Aurora', 'Viego']",Zac
+"['Jarvan', 'Xayah', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Kobuko']",Alistar
+"['Alistar', 'Xayah', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Kobuko']",Jarvan
+"['Alistar', 'Jarvan', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Kobuko']",Xayah
+"['Alistar', 'Jarvan', 'Xayah', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Kobuko']",Annie
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Zac', 'Garen', 'Viego', 'Kobuko']",Aphelios
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Aphelios', 'Garen', 'Viego', 'Kobuko']",Zac
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Aphelios', 'Zac', 'Viego', 'Kobuko']",Garen
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Kobuko']",Viego
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Viego']",Kobuko
+"['Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Poppy
+"['Morgana', 'Poppy', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Poppy', 'Elise', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Gragas
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",MissFortune
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Renekton', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko']",Aurora
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Viego']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Viego']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Viego']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Viego
+"['Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Aphelios', 'Zac']",Alistar
+"['Alistar', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Aphelios', 'Zac']",Graves
+"['Alistar', 'Graves', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Aphelios', 'Zac']",Rhaast
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Aphelios', 'Zac']",Senna
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Gragas', 'Vex', 'Aphelios', 'Zac']",Jarvan
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Aphelios', 'Zac']",Gragas
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Aphelios', 'Zac']",Vex
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Zac']",Aphelios
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Aphelios']",Zac
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Viego', 'Viego']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Viego', 'Viego']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Viego', 'Viego']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Viego', 'Viego']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Viego', 'Viego']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Viego']",Ziggs
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Samira', 'Zac', 'Viego', 'Viego']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Zac', 'Viego', 'Viego']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Viego', 'Viego']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Viego']",Viego
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Viego']",Viego
+"['Ekko', 'LeBlanc', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego', 'Zac']",NidaleeCougar
+"['NidaleeCougar', 'LeBlanc', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego', 'Zac']",Ekko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego', 'Zac']",LeBlanc
+"['NidaleeCougar', 'Ekko', 'LeBlanc', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego', 'Zac']",Naafiri
+"['NidaleeCougar', 'Ekko', 'LeBlanc', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Viego', 'Zac']",Yuumi
+"['NidaleeCougar', 'Ekko', 'LeBlanc', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Viego', 'Zac']",Neeko
+"['NidaleeCougar', 'Ekko', 'LeBlanc', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Viego', 'Zac']",Annie
+"['NidaleeCougar', 'Ekko', 'LeBlanc', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Viego', 'Zac']",Samira
+"['NidaleeCougar', 'Ekko', 'LeBlanc', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Viego
+"['NidaleeCougar', 'Ekko', 'LeBlanc', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego']",Zac
+"['Jax', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Aurora', 'Viego', 'DrMundo']",Morgana
+"['Morgana', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Aurora', 'Viego', 'DrMundo']",Jax
+"['Morgana', 'Jax', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Aurora', 'Viego', 'DrMundo']",Varus
+"['Morgana', 'Jax', 'Varus', 'Gragas', 'Vex', 'Sejuani', 'Aurora', 'Viego', 'DrMundo']",Mordekaiser
+"['Morgana', 'Jax', 'Varus', 'Mordekaiser', 'Vex', 'Sejuani', 'Aurora', 'Viego', 'DrMundo']",Gragas
+"['Morgana', 'Jax', 'Varus', 'Mordekaiser', 'Gragas', 'Sejuani', 'Aurora', 'Viego', 'DrMundo']",Vex
+"['Morgana', 'Jax', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Aurora', 'Viego', 'DrMundo']",Sejuani
+"['Morgana', 'Jax', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Viego', 'DrMundo']",Aurora
+"['Morgana', 'Jax', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Aurora', 'DrMundo']",Viego
+"['Morgana', 'Jax', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Aurora', 'Viego']",DrMundo
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Garen']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Garen']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Garen']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Garen']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Garen']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Ziggs
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Samira', 'Zac', 'Garen']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Zac', 'Garen']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Garen']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac']",Garen
+"['Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Aurora']",Morgana
+"['Morgana', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Aurora']",Jhin
+"['Morgana', 'Jhin', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Aurora']",Varus
+"['Morgana', 'Jhin', 'Varus', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Aurora']",Mordekaiser
+"['Morgana', 'Jhin', 'Varus', 'Mordekaiser', 'Vex', 'Sejuani', 'Renekton', 'Aurora']",Gragas
+"['Morgana', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Sejuani', 'Renekton', 'Aurora']",Vex
+"['Morgana', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Renekton', 'Aurora']",Sejuani
+"['Morgana', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Aurora']",Renekton
+"['Morgana', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton']",Aurora
+"['Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Yuumi', 'Vex', 'Aphelios', 'Renekton']",Alistar
+"['Alistar', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Yuumi', 'Vex', 'Aphelios', 'Renekton']",Graves
+"['Alistar', 'Graves', 'Senna', 'Jarvan', 'Gragas', 'Yuumi', 'Vex', 'Aphelios', 'Renekton']",Rhaast
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Yuumi', 'Vex', 'Aphelios', 'Renekton']",Senna
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Gragas', 'Yuumi', 'Vex', 'Aphelios', 'Renekton']",Jarvan
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Yuumi', 'Vex', 'Aphelios', 'Renekton']",Gragas
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Aphelios', 'Renekton']",Yuumi
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Yuumi', 'Aphelios', 'Renekton']",Vex
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Yuumi', 'Vex', 'Renekton']",Aphelios
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Yuumi', 'Vex', 'Aphelios']",Renekton
+"['Jhin', 'Rhaast', 'Senna', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Urgot']",Morgana
+"['Morgana', 'Rhaast', 'Senna', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Urgot']",Jhin
+"['Morgana', 'Jhin', 'Senna', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Urgot']",Rhaast
+"['Morgana', 'Jhin', 'Rhaast', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Urgot']",Senna
+"['Morgana', 'Jhin', 'Rhaast', 'Senna', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Urgot']",Mordekaiser
+"['Morgana', 'Jhin', 'Rhaast', 'Senna', 'Mordekaiser', 'Vex', 'Sejuani', 'Renekton', 'Urgot']",Gragas
+"['Morgana', 'Jhin', 'Rhaast', 'Senna', 'Mordekaiser', 'Gragas', 'Sejuani', 'Renekton', 'Urgot']",Vex
+"['Morgana', 'Jhin', 'Rhaast', 'Senna', 'Mordekaiser', 'Gragas', 'Vex', 'Renekton', 'Urgot']",Sejuani
+"['Morgana', 'Jhin', 'Rhaast', 'Senna', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Urgot']",Renekton
+"['Morgana', 'Jhin', 'Rhaast', 'Senna', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton']",Urgot
+"['Rhaast', 'Braum', 'Elise', 'Jarvan', 'MissFortune', 'Leona', 'Zac', 'Aurora', 'Aurora']",Darius
+"['Darius', 'Braum', 'Elise', 'Jarvan', 'MissFortune', 'Leona', 'Zac', 'Aurora', 'Aurora']",Rhaast
+"['Darius', 'Rhaast', 'Elise', 'Jarvan', 'MissFortune', 'Leona', 'Zac', 'Aurora', 'Aurora']",Braum
+"['Darius', 'Rhaast', 'Braum', 'Jarvan', 'MissFortune', 'Leona', 'Zac', 'Aurora', 'Aurora']",Elise
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'MissFortune', 'Leona', 'Zac', 'Aurora', 'Aurora']",Jarvan
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'Jarvan', 'Leona', 'Zac', 'Aurora', 'Aurora']",MissFortune
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'Jarvan', 'MissFortune', 'Zac', 'Aurora', 'Aurora']",Leona
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'Jarvan', 'MissFortune', 'Leona', 'Aurora', 'Aurora']",Zac
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'Jarvan', 'MissFortune', 'Leona', 'Zac', 'Aurora']",Aurora
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'Jarvan', 'MissFortune', 'Leona', 'Zac', 'Aurora']",Aurora
+"['Jhin', 'Rhaast', 'Jinx', 'Jarvan', 'Xayah', 'Leona', 'Aphelios']",Sylas
+"['Sylas', 'Rhaast', 'Jinx', 'Jarvan', 'Xayah', 'Leona', 'Aphelios']",Jhin
+"['Sylas', 'Jhin', 'Jinx', 'Jarvan', 'Xayah', 'Leona', 'Aphelios']",Rhaast
+"['Sylas', 'Jhin', 'Rhaast', 'Jarvan', 'Xayah', 'Leona', 'Aphelios']",Jinx
+"['Sylas', 'Jhin', 'Rhaast', 'Jinx', 'Xayah', 'Leona', 'Aphelios']",Jarvan
+"['Sylas', 'Jhin', 'Rhaast', 'Jinx', 'Jarvan', 'Leona', 'Aphelios']",Xayah
+"['Sylas', 'Jhin', 'Rhaast', 'Jinx', 'Jarvan', 'Xayah', 'Aphelios']",Leona
+"['Sylas', 'Jhin', 'Rhaast', 'Jinx', 'Jarvan', 'Xayah', 'Leona']",Aphelios
+"['Sylas', 'Darius', 'Rhaast', 'Braum', 'Elise', 'MissFortune', 'Leona', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Darius', 'Rhaast', 'Braum', 'Elise', 'MissFortune', 'Leona', 'Kobuko', 'Aurora']",Sylas
+"['Morgana', 'Sylas', 'Rhaast', 'Braum', 'Elise', 'MissFortune', 'Leona', 'Kobuko', 'Aurora']",Darius
+"['Morgana', 'Sylas', 'Darius', 'Braum', 'Elise', 'MissFortune', 'Leona', 'Kobuko', 'Aurora']",Rhaast
+"['Morgana', 'Sylas', 'Darius', 'Rhaast', 'Elise', 'MissFortune', 'Leona', 'Kobuko', 'Aurora']",Braum
+"['Morgana', 'Sylas', 'Darius', 'Rhaast', 'Braum', 'MissFortune', 'Leona', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Sylas', 'Darius', 'Rhaast', 'Braum', 'Elise', 'Leona', 'Kobuko', 'Aurora']",MissFortune
+"['Morgana', 'Sylas', 'Darius', 'Rhaast', 'Braum', 'Elise', 'MissFortune', 'Kobuko', 'Aurora']",Leona
+"['Morgana', 'Sylas', 'Darius', 'Rhaast', 'Braum', 'Elise', 'MissFortune', 'Leona', 'Aurora']",Kobuko
+"['Morgana', 'Sylas', 'Darius', 'Rhaast', 'Braum', 'Elise', 'MissFortune', 'Leona', 'Kobuko']",Aurora
+"['Poppy', 'Veigar', 'Shyvana', 'Mordekaiser', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Darius']",Zyra
+"['Zyra', 'Veigar', 'Shyvana', 'Mordekaiser', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Darius']",Poppy
+"['Zyra', 'Poppy', 'Shyvana', 'Mordekaiser', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Darius']",Veigar
+"['Zyra', 'Poppy', 'Veigar', 'Mordekaiser', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Darius']",Shyvana
+"['Zyra', 'Poppy', 'Veigar', 'Shyvana', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Darius']",Mordekaiser
+"['Zyra', 'Poppy', 'Veigar', 'Shyvana', 'Mordekaiser', 'Ziggs', 'Kobuko', 'Viego', 'Darius']",Brand
+"['Zyra', 'Poppy', 'Veigar', 'Shyvana', 'Mordekaiser', 'Brand', 'Kobuko', 'Viego', 'Darius']",Ziggs
+"['Zyra', 'Poppy', 'Veigar', 'Shyvana', 'Mordekaiser', 'Brand', 'Ziggs', 'Viego', 'Darius']",Kobuko
+"['Zyra', 'Poppy', 'Veigar', 'Shyvana', 'Mordekaiser', 'Brand', 'Ziggs', 'Kobuko', 'Darius']",Viego
+"['Zyra', 'Poppy', 'Veigar', 'Shyvana', 'Mordekaiser', 'Brand', 'Ziggs', 'Kobuko', 'Viego']",Darius
+"['Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Poppy
+"['Morgana', 'Poppy', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Poppy', 'Elise', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Gragas
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",MissFortune
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Garen', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Garen
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko']",Aurora
+"['Morgana', 'Alistar', 'Darius', 'Elise', 'Mordekaiser', 'Gragas', 'MissFortune', 'Aurora', 'Viego']",DrMundo
+"['DrMundo', 'Alistar', 'Darius', 'Elise', 'Mordekaiser', 'Gragas', 'MissFortune', 'Aurora', 'Viego']",Morgana
+"['DrMundo', 'Morgana', 'Darius', 'Elise', 'Mordekaiser', 'Gragas', 'MissFortune', 'Aurora', 'Viego']",Alistar
+"['DrMundo', 'Morgana', 'Alistar', 'Elise', 'Mordekaiser', 'Gragas', 'MissFortune', 'Aurora', 'Viego']",Darius
+"['DrMundo', 'Morgana', 'Alistar', 'Darius', 'Mordekaiser', 'Gragas', 'MissFortune', 'Aurora', 'Viego']",Elise
+"['DrMundo', 'Morgana', 'Alistar', 'Darius', 'Elise', 'Gragas', 'MissFortune', 'Aurora', 'Viego']",Mordekaiser
+"['DrMundo', 'Morgana', 'Alistar', 'Darius', 'Elise', 'Mordekaiser', 'MissFortune', 'Aurora', 'Viego']",Gragas
+"['DrMundo', 'Morgana', 'Alistar', 'Darius', 'Elise', 'Mordekaiser', 'Gragas', 'Aurora', 'Viego']",MissFortune
+"['DrMundo', 'Morgana', 'Alistar', 'Darius', 'Elise', 'Mordekaiser', 'Gragas', 'MissFortune', 'Viego']",Aurora
+"['DrMundo', 'Morgana', 'Alistar', 'Darius', 'Elise', 'Mordekaiser', 'Gragas', 'MissFortune', 'Aurora']",Viego
+"['Poppy', 'Vex', 'Chogath', 'Zac', 'Renekton', 'Urgot', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Vex', 'Chogath', 'Zac', 'Renekton', 'Urgot', 'Kobuko', 'Aurora']",Poppy
+"['Morgana', 'Poppy', 'Chogath', 'Zac', 'Renekton', 'Urgot', 'Kobuko', 'Aurora']",Vex
+"['Morgana', 'Poppy', 'Vex', 'Zac', 'Renekton', 'Urgot', 'Kobuko', 'Aurora']",Chogath
+"['Morgana', 'Poppy', 'Vex', 'Chogath', 'Renekton', 'Urgot', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Poppy', 'Vex', 'Chogath', 'Zac', 'Urgot', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Poppy', 'Vex', 'Chogath', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Urgot
+"['Morgana', 'Poppy', 'Vex', 'Chogath', 'Zac', 'Renekton', 'Urgot', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Vex', 'Chogath', 'Zac', 'Renekton', 'Urgot', 'Kobuko']",Aurora
+"['Illaoi', 'Elise', 'Gragas', 'MissFortune', 'Leona', 'Renekton', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Elise', 'Gragas', 'MissFortune', 'Leona', 'Renekton', 'Kobuko', 'Aurora']",Illaoi
+"['Morgana', 'Illaoi', 'Gragas', 'MissFortune', 'Leona', 'Renekton', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Illaoi', 'Elise', 'MissFortune', 'Leona', 'Renekton', 'Kobuko', 'Aurora']",Gragas
+"['Morgana', 'Illaoi', 'Elise', 'Gragas', 'Leona', 'Renekton', 'Kobuko', 'Aurora']",MissFortune
+"['Morgana', 'Illaoi', 'Elise', 'Gragas', 'MissFortune', 'Renekton', 'Kobuko', 'Aurora']",Leona
+"['Morgana', 'Illaoi', 'Elise', 'Gragas', 'MissFortune', 'Leona', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Illaoi', 'Elise', 'Gragas', 'MissFortune', 'Leona', 'Renekton', 'Aurora']",Kobuko
+"['Morgana', 'Illaoi', 'Elise', 'Gragas', 'MissFortune', 'Leona', 'Renekton', 'Kobuko']",Aurora
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Aurora']",Morgana
+"['Morgana', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Aurora']",Darius
+"['Morgana', 'Darius', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Aurora']",Rhaast
+"['Morgana', 'Darius', 'Rhaast', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Aurora']",Braum
+"['Morgana', 'Darius', 'Rhaast', 'Braum', 'Gragas', 'MissFortune', 'Zac', 'Aurora']",Elise
+"['Morgana', 'Darius', 'Rhaast', 'Braum', 'Elise', 'MissFortune', 'Zac', 'Aurora']",Gragas
+"['Morgana', 'Darius', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'Zac', 'Aurora']",MissFortune
+"['Morgana', 'Darius', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Aurora']",Zac
+"['Morgana', 'Darius', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Zac']",Aurora
+"['Seraphine', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora', 'Viego', 'Zeri']",Sylas
+"['Sylas', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora', 'Viego', 'Zeri']",Seraphine
+"['Sylas', 'Seraphine', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora', 'Viego', 'Zeri']",Illaoi
+"['Sylas', 'Seraphine', 'Illaoi', 'Leona', 'Zac', 'Renekton', 'Aurora', 'Viego', 'Zeri']",Xayah
+"['Sylas', 'Seraphine', 'Illaoi', 'Xayah', 'Zac', 'Renekton', 'Aurora', 'Viego', 'Zeri']",Leona
+"['Sylas', 'Seraphine', 'Illaoi', 'Xayah', 'Leona', 'Renekton', 'Aurora', 'Viego', 'Zeri']",Zac
+"['Sylas', 'Seraphine', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Aurora', 'Viego', 'Zeri']",Renekton
+"['Sylas', 'Seraphine', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Viego', 'Zeri']",Aurora
+"['Sylas', 'Seraphine', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora', 'Zeri']",Viego
+"['Sylas', 'Seraphine', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora', 'Viego']",Zeri
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Viego', 'Jhin']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Viego', 'Jhin']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Viego', 'Jhin']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Viego', 'Jhin']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Viego', 'Jhin']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Jhin']",Ziggs
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Samira', 'Zac', 'Viego', 'Jhin']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Zac', 'Viego', 'Jhin']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Viego', 'Jhin']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Jhin']",Viego
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Viego']",Jhin
+"['Seraphine', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Sylas
+"['Sylas', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Seraphine
+"['Sylas', 'Seraphine', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Vayne
+"['Sylas', 'Seraphine', 'Vayne', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Illaoi
+"['Sylas', 'Seraphine', 'Vayne', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Yuumi
+"['Sylas', 'Seraphine', 'Vayne', 'Illaoi', 'Yuumi', 'Leona', 'Zac', 'Aurora']",Xayah
+"['Sylas', 'Seraphine', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Zac', 'Aurora']",Leona
+"['Sylas', 'Seraphine', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Aurora']",Zac
+"['Sylas', 'Seraphine', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac']",Aurora
+"['Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Kobuko']",Poppy
+"['Poppy', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Kobuko']",Veigar
+"['Poppy', 'Veigar', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Kobuko']",Shyvana
+"['Poppy', 'Veigar', 'Shyvana', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Kobuko']",Mordekaiser
+"['Poppy', 'Veigar', 'Shyvana', 'Mordekaiser', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Kobuko']",Fiddlesticks
+"['Poppy', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Ziggs', 'Kobuko', 'Viego', 'Kobuko']",Brand
+"['Poppy', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Kobuko', 'Viego', 'Kobuko']",Ziggs
+"['Poppy', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Viego', 'Kobuko']",Kobuko
+"['Poppy', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Kobuko']",Viego
+"['Poppy', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego']",Kobuko
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Ziggs', 'Annie', 'Samira', 'Zac']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Ziggs
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Samira', 'Zac']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Zac']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira']",Zac
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Naafiri']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Naafiri']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Naafiri']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Naafiri']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Viego', 'Naafiri']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Viego', 'Naafiri']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Viego', 'Naafiri']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego', 'Naafiri']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Naafiri']",Viego
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",Naafiri
+"['Graves', 'Annie', 'Aphelios', 'Samira', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Zac']",Alistar
+"['Alistar', 'Annie', 'Aphelios', 'Samira', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Zac']",Graves
+"['Alistar', 'Graves', 'Aphelios', 'Samira', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Zac']",Annie
+"['Alistar', 'Graves', 'Annie', 'Samira', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Zac']",Aphelios
+"['Alistar', 'Graves', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Zac']",Samira
+"['Alistar', 'Graves', 'Annie', 'Aphelios', 'Samira', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Zac']",Zac
+"['Alistar', 'Graves', 'Annie', 'Aphelios', 'Samira', 'Zac', 'Urgot', 'Kobuko', 'Viego', 'Zac']",Garen
+"['Alistar', 'Graves', 'Annie', 'Aphelios', 'Samira', 'Zac', 'Garen', 'Kobuko', 'Viego', 'Zac']",Urgot
+"['Alistar', 'Graves', 'Annie', 'Aphelios', 'Samira', 'Zac', 'Garen', 'Urgot', 'Viego', 'Zac']",Kobuko
+"['Alistar', 'Graves', 'Annie', 'Aphelios', 'Samira', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Zac']",Viego
+"['Alistar', 'Graves', 'Annie', 'Aphelios', 'Samira', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego']",Zac
+"['Senna', 'Jarvan', 'Gragas', 'Vex', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Aurora']",Rhaast
+"['Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Aurora']",Senna
+"['Rhaast', 'Senna', 'Gragas', 'Vex', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Aurora']",Jarvan
+"['Rhaast', 'Senna', 'Jarvan', 'Vex', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Aurora']",Gragas
+"['Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Aurora']",Vex
+"['Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Renekton', 'Garen', 'Urgot', 'Aurora']",Zac
+"['Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Zac', 'Garen', 'Urgot', 'Aurora']",Renekton
+"['Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Zac', 'Renekton', 'Urgot', 'Aurora']",Garen
+"['Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Zac', 'Renekton', 'Garen', 'Aurora']",Urgot
+"['Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Zac', 'Renekton', 'Garen', 'Urgot']",Aurora
+"['Seraphine', 'Jhin', 'Vayne', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Sylas
+"['Sylas', 'Jhin', 'Vayne', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Seraphine
+"['Sylas', 'Seraphine', 'Vayne', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Jhin
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Vayne
+"['Sylas', 'Seraphine', 'Jhin', 'Vayne', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Illaoi
+"['Sylas', 'Seraphine', 'Jhin', 'Vayne', 'Illaoi', 'Leona', 'Zac', 'Renekton', 'Aurora']",Xayah
+"['Sylas', 'Seraphine', 'Jhin', 'Vayne', 'Illaoi', 'Xayah', 'Zac', 'Renekton', 'Aurora']",Leona
+"['Sylas', 'Seraphine', 'Jhin', 'Vayne', 'Illaoi', 'Xayah', 'Leona', 'Renekton', 'Aurora']",Zac
+"['Sylas', 'Seraphine', 'Jhin', 'Vayne', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Renekton
+"['Sylas', 'Seraphine', 'Jhin', 'Vayne', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Renekton']",Aurora
+"['Jarvan', 'Vex', 'Annie', 'Aphelios', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Viego', 'Sejuani']",Graves
+"['Graves', 'Vex', 'Annie', 'Aphelios', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Viego', 'Sejuani']",Jarvan
+"['Graves', 'Jarvan', 'Annie', 'Aphelios', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Viego', 'Sejuani']",Vex
+"['Graves', 'Jarvan', 'Vex', 'Aphelios', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Viego', 'Sejuani']",Annie
+"['Graves', 'Jarvan', 'Vex', 'Annie', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Viego', 'Sejuani']",Aphelios
+"['Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Renekton', 'Garen', 'Urgot', 'Viego', 'Sejuani']",Zac
+"['Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Urgot', 'Viego', 'Sejuani']",Renekton
+"['Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Zac', 'Renekton', 'Urgot', 'Viego', 'Sejuani']",Garen
+"['Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Zac', 'Renekton', 'Garen', 'Viego', 'Sejuani']",Urgot
+"['Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Sejuani']",Viego
+"['Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Viego']",Sejuani
+"['Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Aphelios']",Alistar
+"['Alistar', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Aphelios']",Graves
+"['Alistar', 'Graves', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Aphelios']",Rhaast
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Aphelios']",Senna
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Gragas', 'Vex', 'Aphelios']",Jarvan
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Aphelios']",Gragas
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Aphelios']",Vex
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex']",Aphelios
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Leona']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Leona']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Leona']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Leona']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Leona']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Garen', 'Viego', 'Leona']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Garen', 'Viego', 'Leona']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Garen', 'Viego', 'Leona']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Leona']",Garen
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Leona']",Viego
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego']",Leona
+"['Poppy', 'Seraphine', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Viego']",Zyra
+"['Zyra', 'Seraphine', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Viego']",Poppy
+"['Zyra', 'Poppy', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Viego']",Seraphine
+"['Zyra', 'Poppy', 'Seraphine', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Viego']",Veigar
+"['Zyra', 'Poppy', 'Seraphine', 'Veigar', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Viego']",Shyvana
+"['Zyra', 'Poppy', 'Seraphine', 'Veigar', 'Shyvana', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Viego']",Mordekaiser
+"['Zyra', 'Poppy', 'Seraphine', 'Veigar', 'Shyvana', 'Mordekaiser', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Viego']",Fiddlesticks
+"['Zyra', 'Poppy', 'Seraphine', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Ziggs', 'Kobuko', 'Viego', 'Viego']",Brand
+"['Zyra', 'Poppy', 'Seraphine', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Kobuko', 'Viego', 'Viego']",Ziggs
+"['Zyra', 'Poppy', 'Seraphine', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Viego', 'Viego']",Kobuko
+"['Zyra', 'Poppy', 'Seraphine', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego']",Viego
+"['Zyra', 'Poppy', 'Seraphine', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego']",Viego
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Garen']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Garen']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Garen']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Garen']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Garen
+"['Rhaast', 'Braum', 'Jarvan', 'Xayah', 'Leona', 'Aphelios', 'Zac', 'Aurora']",Jhin
+"['Jhin', 'Braum', 'Jarvan', 'Xayah', 'Leona', 'Aphelios', 'Zac', 'Aurora']",Rhaast
+"['Jhin', 'Rhaast', 'Jarvan', 'Xayah', 'Leona', 'Aphelios', 'Zac', 'Aurora']",Braum
+"['Jhin', 'Rhaast', 'Braum', 'Xayah', 'Leona', 'Aphelios', 'Zac', 'Aurora']",Jarvan
+"['Jhin', 'Rhaast', 'Braum', 'Jarvan', 'Leona', 'Aphelios', 'Zac', 'Aurora']",Xayah
+"['Jhin', 'Rhaast', 'Braum', 'Jarvan', 'Xayah', 'Aphelios', 'Zac', 'Aurora']",Leona
+"['Jhin', 'Rhaast', 'Braum', 'Jarvan', 'Xayah', 'Leona', 'Zac', 'Aurora']",Aphelios
+"['Jhin', 'Rhaast', 'Braum', 'Jarvan', 'Xayah', 'Leona', 'Aphelios', 'Aurora']",Zac
+"['Jhin', 'Rhaast', 'Braum', 'Jarvan', 'Xayah', 'Leona', 'Aphelios', 'Zac']",Aurora
+"['Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Poppy
+"['Morgana', 'Poppy', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Poppy', 'Elise', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Gragas
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",MissFortune
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Garen', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Garen
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko']",Aurora
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Zyra
+"['Zyra', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",NidaleeCougar
+"['Zyra', 'NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Ekko
+"['Zyra', 'NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Naafiri
+"['Zyra', 'NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac']",Yuumi
+"['Zyra', 'NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac']",Neeko
+"['Zyra', 'NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac']",Annie
+"['Zyra', 'NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac']",Samira
+"['Zyra', 'NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira']",Zac
+"['Jax', 'Jhin', 'Naafiri', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zeri']",Morgana
+"['Morgana', 'Jhin', 'Naafiri', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zeri']",Jax
+"['Morgana', 'Jax', 'Naafiri', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zeri']",Jhin
+"['Morgana', 'Jax', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zeri']",Naafiri
+"['Morgana', 'Jax', 'Jhin', 'Naafiri', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zeri']",Varus
+"['Morgana', 'Jax', 'Jhin', 'Naafiri', 'Varus', 'Gragas', 'Vex', 'Sejuani', 'Zeri']",Mordekaiser
+"['Morgana', 'Jax', 'Jhin', 'Naafiri', 'Varus', 'Mordekaiser', 'Vex', 'Sejuani', 'Zeri']",Gragas
+"['Morgana', 'Jax', 'Jhin', 'Naafiri', 'Varus', 'Mordekaiser', 'Gragas', 'Sejuani', 'Zeri']",Vex
+"['Morgana', 'Jax', 'Jhin', 'Naafiri', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Zeri']",Sejuani
+"['Morgana', 'Jax', 'Jhin', 'Naafiri', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani']",Zeri
+"['Ekko', 'Naafiri', 'Yuumi', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Viego', 'Leona']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Viego', 'Leona']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Viego', 'Leona']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Viego', 'Leona']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Viego', 'Leona']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Yuumi', 'Ziggs', 'Annie', 'Samira', 'Viego', 'Leona']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego', 'Leona']",Ziggs
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Yuumi', 'Neeko', 'Ziggs', 'Samira', 'Viego', 'Leona']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Viego', 'Leona']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Leona']",Viego
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Viego']",Leona
+"['Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Annie', 'Aphelios', 'Viego', 'Zed']",Alistar
+"['Alistar', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Annie', 'Aphelios', 'Viego', 'Zed']",Graves
+"['Alistar', 'Graves', 'Jarvan', 'Gragas', 'Vex', 'Annie', 'Aphelios', 'Viego', 'Zed']",Rhaast
+"['Alistar', 'Graves', 'Rhaast', 'Gragas', 'Vex', 'Annie', 'Aphelios', 'Viego', 'Zed']",Jarvan
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Viego', 'Zed']",Gragas
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Annie', 'Aphelios', 'Viego', 'Zed']",Vex
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Aphelios', 'Viego', 'Zed']",Annie
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Annie', 'Viego', 'Zed']",Aphelios
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Annie', 'Aphelios', 'Zed']",Viego
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Annie', 'Aphelios', 'Viego']",Zed
+"['Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Gragas']",Skarner
+"['Skarner', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Gragas']",Fiddlesticks
+"['Skarner', 'Fiddlesticks', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Gragas']",Vex
+"['Skarner', 'Fiddlesticks', 'Vex', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Gragas']",Chogath
+"['Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Gragas']",Zac
+"['Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Urgot', 'Kobuko', 'Viego', 'Gragas']",Garen
+"['Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Kobuko', 'Viego', 'Gragas']",Urgot
+"['Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Viego', 'Gragas']",Kobuko
+"['Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Gragas']",Viego
+"['Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego']",Gragas
+"['NidaleeCougar', 'Shyvana', 'Elise', 'MissFortune', 'Annie', 'Zac', 'Renekton', 'Aurora', 'Viego', 'SummonLevel4', 'Ekko']",Morgana
+"['Morgana', 'Shyvana', 'Elise', 'MissFortune', 'Annie', 'Zac', 'Renekton', 'Aurora', 'Viego', 'SummonLevel4', 'Ekko']",NidaleeCougar
+"['Morgana', 'NidaleeCougar', 'Elise', 'MissFortune', 'Annie', 'Zac', 'Renekton', 'Aurora', 'Viego', 'SummonLevel4', 'Ekko']",Shyvana
+"['Morgana', 'NidaleeCougar', 'Shyvana', 'MissFortune', 'Annie', 'Zac', 'Renekton', 'Aurora', 'Viego', 'SummonLevel4', 'Ekko']",Elise
+"['Morgana', 'NidaleeCougar', 'Shyvana', 'Elise', 'Annie', 'Zac', 'Renekton', 'Aurora', 'Viego', 'SummonLevel4', 'Ekko']",MissFortune
+"['Morgana', 'NidaleeCougar', 'Shyvana', 'Elise', 'MissFortune', 'Zac', 'Renekton', 'Aurora', 'Viego', 'SummonLevel4', 'Ekko']",Annie
+"['Morgana', 'NidaleeCougar', 'Shyvana', 'Elise', 'MissFortune', 'Annie', 'Renekton', 'Aurora', 'Viego', 'SummonLevel4', 'Ekko']",Zac
+"['Morgana', 'NidaleeCougar', 'Shyvana', 'Elise', 'MissFortune', 'Annie', 'Zac', 'Aurora', 'Viego', 'SummonLevel4', 'Ekko']",Renekton
+"['Morgana', 'NidaleeCougar', 'Shyvana', 'Elise', 'MissFortune', 'Annie', 'Zac', 'Renekton', 'Viego', 'SummonLevel4', 'Ekko']",Aurora
+"['Morgana', 'NidaleeCougar', 'Shyvana', 'Elise', 'MissFortune', 'Annie', 'Zac', 'Renekton', 'Aurora', 'SummonLevel4', 'Ekko']",Viego
+"['Morgana', 'NidaleeCougar', 'Shyvana', 'Elise', 'MissFortune', 'Annie', 'Zac', 'Renekton', 'Aurora', 'Viego', 'Ekko']",SummonLevel4
+"['Morgana', 'NidaleeCougar', 'Shyvana', 'Elise', 'MissFortune', 'Annie', 'Zac', 'Renekton', 'Aurora', 'Viego', 'SummonLevel4']",Ekko
+"['Jax', 'Poppy', 'Shyvana', 'Jhin', 'Illaoi', 'Elise', 'Sejuani', 'Renekton', 'Aurora']",Morgana
+"['Morgana', 'Poppy', 'Shyvana', 'Jhin', 'Illaoi', 'Elise', 'Sejuani', 'Renekton', 'Aurora']",Jax
+"['Morgana', 'Jax', 'Shyvana', 'Jhin', 'Illaoi', 'Elise', 'Sejuani', 'Renekton', 'Aurora']",Poppy
+"['Morgana', 'Jax', 'Poppy', 'Jhin', 'Illaoi', 'Elise', 'Sejuani', 'Renekton', 'Aurora']",Shyvana
+"['Morgana', 'Jax', 'Poppy', 'Shyvana', 'Illaoi', 'Elise', 'Sejuani', 'Renekton', 'Aurora']",Jhin
+"['Morgana', 'Jax', 'Poppy', 'Shyvana', 'Jhin', 'Elise', 'Sejuani', 'Renekton', 'Aurora']",Illaoi
+"['Morgana', 'Jax', 'Poppy', 'Shyvana', 'Jhin', 'Illaoi', 'Sejuani', 'Renekton', 'Aurora']",Elise
+"['Morgana', 'Jax', 'Poppy', 'Shyvana', 'Jhin', 'Illaoi', 'Elise', 'Renekton', 'Aurora']",Sejuani
+"['Morgana', 'Jax', 'Poppy', 'Shyvana', 'Jhin', 'Illaoi', 'Elise', 'Sejuani', 'Aurora']",Renekton
+"['Morgana', 'Jax', 'Poppy', 'Shyvana', 'Jhin', 'Illaoi', 'Elise', 'Sejuani', 'Renekton']",Aurora
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Viego']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Viego']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Viego']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Viego
+"['KogMaw', 'TwistedFate', 'Draven', 'Mordekaiser', 'Sejuani', 'Zeri', 'Renekton', 'Kobuko']",Kindred
+"['Kindred', 'TwistedFate', 'Draven', 'Mordekaiser', 'Sejuani', 'Zeri', 'Renekton', 'Kobuko']",KogMaw
+"['Kindred', 'KogMaw', 'Draven', 'Mordekaiser', 'Sejuani', 'Zeri', 'Renekton', 'Kobuko']",TwistedFate
+"['Kindred', 'KogMaw', 'TwistedFate', 'Mordekaiser', 'Sejuani', 'Zeri', 'Renekton', 'Kobuko']",Draven
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Sejuani', 'Zeri', 'Renekton', 'Kobuko']",Mordekaiser
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Mordekaiser', 'Zeri', 'Renekton', 'Kobuko']",Sejuani
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Mordekaiser', 'Sejuani', 'Renekton', 'Kobuko']",Zeri
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Mordekaiser', 'Sejuani', 'Zeri', 'Kobuko']",Renekton
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Mordekaiser', 'Sejuani', 'Zeri', 'Renekton']",Kobuko
+"['DrMundo', 'Ekko', 'Neeko', 'Brand', 'Ziggs', 'Samira', 'Zac', 'Kobuko']",Zyra
+"['Zyra', 'Ekko', 'Neeko', 'Brand', 'Ziggs', 'Samira', 'Zac', 'Kobuko']",DrMundo
+"['Zyra', 'DrMundo', 'Neeko', 'Brand', 'Ziggs', 'Samira', 'Zac', 'Kobuko']",Ekko
+"['Zyra', 'DrMundo', 'Ekko', 'Brand', 'Ziggs', 'Samira', 'Zac', 'Kobuko']",Neeko
+"['Zyra', 'DrMundo', 'Ekko', 'Neeko', 'Ziggs', 'Samira', 'Zac', 'Kobuko']",Brand
+"['Zyra', 'DrMundo', 'Ekko', 'Neeko', 'Brand', 'Samira', 'Zac', 'Kobuko']",Ziggs
+"['Zyra', 'DrMundo', 'Ekko', 'Neeko', 'Brand', 'Ziggs', 'Zac', 'Kobuko']",Samira
+"['Zyra', 'DrMundo', 'Ekko', 'Neeko', 'Brand', 'Ziggs', 'Samira', 'Kobuko']",Zac
+"['Zyra', 'DrMundo', 'Ekko', 'Neeko', 'Brand', 'Ziggs', 'Samira', 'Zac']",Kobuko
+"['Ekko', 'LeBlanc', 'Jarvan', 'Galio', 'Yuumi', 'Neeko', 'Zed', 'Samira', 'Renekton']",Vi
+"['Vi', 'LeBlanc', 'Jarvan', 'Galio', 'Yuumi', 'Neeko', 'Zed', 'Samira', 'Renekton']",Ekko
+"['Vi', 'Ekko', 'Jarvan', 'Galio', 'Yuumi', 'Neeko', 'Zed', 'Samira', 'Renekton']",LeBlanc
+"['Vi', 'Ekko', 'LeBlanc', 'Galio', 'Yuumi', 'Neeko', 'Zed', 'Samira', 'Renekton']",Jarvan
+"['Vi', 'Ekko', 'LeBlanc', 'Jarvan', 'Yuumi', 'Neeko', 'Zed', 'Samira', 'Renekton']",Galio
+"['Vi', 'Ekko', 'LeBlanc', 'Jarvan', 'Galio', 'Neeko', 'Zed', 'Samira', 'Renekton']",Yuumi
+"['Vi', 'Ekko', 'LeBlanc', 'Jarvan', 'Galio', 'Yuumi', 'Zed', 'Samira', 'Renekton']",Neeko
+"['Vi', 'Ekko', 'LeBlanc', 'Jarvan', 'Galio', 'Yuumi', 'Neeko', 'Samira', 'Renekton']",Zed
+"['Vi', 'Ekko', 'LeBlanc', 'Jarvan', 'Galio', 'Yuumi', 'Neeko', 'Zed', 'Renekton']",Samira
+"['Vi', 'Ekko', 'LeBlanc', 'Jarvan', 'Galio', 'Yuumi', 'Neeko', 'Zed', 'Samira']",Renekton
+"['TwistedFate', 'Darius', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri']",Jax
+"['Jax', 'Darius', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri']",TwistedFate
+"['Jax', 'TwistedFate', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri']",Darius
+"['Jax', 'TwistedFate', 'Darius', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri']",Jhin
+"['Jax', 'TwistedFate', 'Darius', 'Jhin', 'MissFortune', 'Sejuani', 'Zeri']",Mordekaiser
+"['Jax', 'TwistedFate', 'Darius', 'Jhin', 'Mordekaiser', 'Sejuani', 'Zeri']",MissFortune
+"['Jax', 'TwistedFate', 'Darius', 'Jhin', 'Mordekaiser', 'MissFortune', 'Zeri']",Sejuani
+"['Jax', 'TwistedFate', 'Darius', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani']",Zeri
+"['Rhaast', 'Elise', 'Mordekaiser', 'Gragas', 'Vex', 'Renekton', 'Urgot', 'Aurora']",Morgana
+"['Morgana', 'Elise', 'Mordekaiser', 'Gragas', 'Vex', 'Renekton', 'Urgot', 'Aurora']",Rhaast
+"['Morgana', 'Rhaast', 'Mordekaiser', 'Gragas', 'Vex', 'Renekton', 'Urgot', 'Aurora']",Elise
+"['Morgana', 'Rhaast', 'Elise', 'Gragas', 'Vex', 'Renekton', 'Urgot', 'Aurora']",Mordekaiser
+"['Morgana', 'Rhaast', 'Elise', 'Mordekaiser', 'Vex', 'Renekton', 'Urgot', 'Aurora']",Gragas
+"['Morgana', 'Rhaast', 'Elise', 'Mordekaiser', 'Gragas', 'Renekton', 'Urgot', 'Aurora']",Vex
+"['Morgana', 'Rhaast', 'Elise', 'Mordekaiser', 'Gragas', 'Vex', 'Urgot', 'Aurora']",Renekton
+"['Morgana', 'Rhaast', 'Elise', 'Mordekaiser', 'Gragas', 'Vex', 'Renekton', 'Aurora']",Urgot
+"['Morgana', 'Rhaast', 'Elise', 'Mordekaiser', 'Gragas', 'Vex', 'Renekton', 'Urgot']",Aurora
+"['DrMundo', 'Alistar', 'Veigar', 'Mordekaiser', 'Jarvan', 'Fiddlesticks', 'Brand', 'Kobuko']",Zyra
+"['Zyra', 'Alistar', 'Veigar', 'Mordekaiser', 'Jarvan', 'Fiddlesticks', 'Brand', 'Kobuko']",DrMundo
+"['Zyra', 'DrMundo', 'Veigar', 'Mordekaiser', 'Jarvan', 'Fiddlesticks', 'Brand', 'Kobuko']",Alistar
+"['Zyra', 'DrMundo', 'Alistar', 'Mordekaiser', 'Jarvan', 'Fiddlesticks', 'Brand', 'Kobuko']",Veigar
+"['Zyra', 'DrMundo', 'Alistar', 'Veigar', 'Jarvan', 'Fiddlesticks', 'Brand', 'Kobuko']",Mordekaiser
+"['Zyra', 'DrMundo', 'Alistar', 'Veigar', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Kobuko']",Jarvan
+"['Zyra', 'DrMundo', 'Alistar', 'Veigar', 'Mordekaiser', 'Jarvan', 'Brand', 'Kobuko']",Fiddlesticks
+"['Zyra', 'DrMundo', 'Alistar', 'Veigar', 'Mordekaiser', 'Jarvan', 'Fiddlesticks', 'Kobuko']",Brand
+"['Zyra', 'DrMundo', 'Alistar', 'Veigar', 'Mordekaiser', 'Jarvan', 'Fiddlesticks', 'Brand']",Kobuko
+"['DrMundo', 'Ekko', 'Jinx', 'Rengar', 'Yuumi', 'Neeko', 'Brand', 'Samira', 'Zac', 'Renekton']",Zyra
+"['Zyra', 'Ekko', 'Jinx', 'Rengar', 'Yuumi', 'Neeko', 'Brand', 'Samira', 'Zac', 'Renekton']",DrMundo
+"['Zyra', 'DrMundo', 'Jinx', 'Rengar', 'Yuumi', 'Neeko', 'Brand', 'Samira', 'Zac', 'Renekton']",Ekko
+"['Zyra', 'DrMundo', 'Ekko', 'Rengar', 'Yuumi', 'Neeko', 'Brand', 'Samira', 'Zac', 'Renekton']",Jinx
+"['Zyra', 'DrMundo', 'Ekko', 'Jinx', 'Yuumi', 'Neeko', 'Brand', 'Samira', 'Zac', 'Renekton']",Rengar
+"['Zyra', 'DrMundo', 'Ekko', 'Jinx', 'Rengar', 'Neeko', 'Brand', 'Samira', 'Zac', 'Renekton']",Yuumi
+"['Zyra', 'DrMundo', 'Ekko', 'Jinx', 'Rengar', 'Yuumi', 'Brand', 'Samira', 'Zac', 'Renekton']",Neeko
+"['Zyra', 'DrMundo', 'Ekko', 'Jinx', 'Rengar', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Renekton']",Brand
+"['Zyra', 'DrMundo', 'Ekko', 'Jinx', 'Rengar', 'Yuumi', 'Neeko', 'Brand', 'Zac', 'Renekton']",Samira
+"['Zyra', 'DrMundo', 'Ekko', 'Jinx', 'Rengar', 'Yuumi', 'Neeko', 'Brand', 'Samira', 'Renekton']",Zac
+"['Zyra', 'DrMundo', 'Ekko', 'Jinx', 'Rengar', 'Yuumi', 'Neeko', 'Brand', 'Samira', 'Zac']",Renekton
+"['Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko']",KogMaw
+"['KogMaw', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko']",Skarner
+"['KogMaw', 'Skarner', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko']",Fiddlesticks
+"['KogMaw', 'Skarner', 'Fiddlesticks', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko']",Vex
+"['KogMaw', 'Skarner', 'Fiddlesticks', 'Vex', 'Zac', 'Garen', 'Urgot', 'Kobuko']",Chogath
+"['KogMaw', 'Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Garen', 'Urgot', 'Kobuko']",Zac
+"['KogMaw', 'Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Urgot', 'Kobuko']",Garen
+"['KogMaw', 'Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Kobuko']",Urgot
+"['KogMaw', 'Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot']",Kobuko
+"['Graves', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Kobuko', 'Viego', 'Zed']",Alistar
+"['Alistar', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Kobuko', 'Viego', 'Zed']",Graves
+"['Alistar', 'Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Kobuko', 'Viego', 'Zed']",Rhaast
+"['Alistar', 'Graves', 'Rhaast', 'Vex', 'Annie', 'Aphelios', 'Kobuko', 'Viego', 'Zed']",Jarvan
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Annie', 'Aphelios', 'Kobuko', 'Viego', 'Zed']",Vex
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Aphelios', 'Kobuko', 'Viego', 'Zed']",Annie
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Kobuko', 'Viego', 'Zed']",Aphelios
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Viego', 'Zed']",Kobuko
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Kobuko', 'Zed']",Viego
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Kobuko', 'Viego']",Zed
+"['Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Poppy
+"['Morgana', 'Poppy', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Poppy', 'Elise', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Gragas
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",MissFortune
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Renekton', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko']",Aurora
+"['Morgana', 'TwistedFate', 'Darius', 'Rhaast', 'Braum', 'Draven', 'Gragas', 'MissFortune', 'Aurora']",Shaco
+"['Shaco', 'TwistedFate', 'Darius', 'Rhaast', 'Braum', 'Draven', 'Gragas', 'MissFortune', 'Aurora']",Morgana
+"['Shaco', 'Morgana', 'Darius', 'Rhaast', 'Braum', 'Draven', 'Gragas', 'MissFortune', 'Aurora']",TwistedFate
+"['Shaco', 'Morgana', 'TwistedFate', 'Rhaast', 'Braum', 'Draven', 'Gragas', 'MissFortune', 'Aurora']",Darius
+"['Shaco', 'Morgana', 'TwistedFate', 'Darius', 'Braum', 'Draven', 'Gragas', 'MissFortune', 'Aurora']",Rhaast
+"['Shaco', 'Morgana', 'TwistedFate', 'Darius', 'Rhaast', 'Draven', 'Gragas', 'MissFortune', 'Aurora']",Braum
+"['Shaco', 'Morgana', 'TwistedFate', 'Darius', 'Rhaast', 'Braum', 'Gragas', 'MissFortune', 'Aurora']",Draven
+"['Shaco', 'Morgana', 'TwistedFate', 'Darius', 'Rhaast', 'Braum', 'Draven', 'MissFortune', 'Aurora']",Gragas
+"['Shaco', 'Morgana', 'TwistedFate', 'Darius', 'Rhaast', 'Braum', 'Draven', 'Gragas', 'Aurora']",MissFortune
+"['Shaco', 'Morgana', 'TwistedFate', 'Darius', 'Rhaast', 'Braum', 'Draven', 'Gragas', 'MissFortune']",Aurora
+"['DrMundo', 'Ekko', 'Jinx', 'Rengar', 'Neeko', 'Brand', 'Ziggs', 'Kobuko']",Zyra
+"['Zyra', 'Ekko', 'Jinx', 'Rengar', 'Neeko', 'Brand', 'Ziggs', 'Kobuko']",DrMundo
+"['Zyra', 'DrMundo', 'Jinx', 'Rengar', 'Neeko', 'Brand', 'Ziggs', 'Kobuko']",Ekko
+"['Zyra', 'DrMundo', 'Ekko', 'Rengar', 'Neeko', 'Brand', 'Ziggs', 'Kobuko']",Jinx
+"['Zyra', 'DrMundo', 'Ekko', 'Jinx', 'Neeko', 'Brand', 'Ziggs', 'Kobuko']",Rengar
+"['Zyra', 'DrMundo', 'Ekko', 'Jinx', 'Rengar', 'Brand', 'Ziggs', 'Kobuko']",Neeko
+"['Zyra', 'DrMundo', 'Ekko', 'Jinx', 'Rengar', 'Neeko', 'Ziggs', 'Kobuko']",Brand
+"['Zyra', 'DrMundo', 'Ekko', 'Jinx', 'Rengar', 'Neeko', 'Brand', 'Kobuko']",Ziggs
+"['Zyra', 'DrMundo', 'Ekko', 'Jinx', 'Rengar', 'Neeko', 'Brand', 'Ziggs']",Kobuko
+"['Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Kindred
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Jax
+"['Kindred', 'Jax', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",KogMaw
+"['Kindred', 'Jax', 'KogMaw', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",TwistedFate
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Draven
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Sejuani', 'Zeri', 'Renekton']",Galio
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zeri', 'Renekton']",Sejuani
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Renekton']",Zeri
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri']",Renekton
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Zac']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Zac']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Zac']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Zac']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Zac']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Garen', 'Viego', 'Zac']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Garen', 'Viego', 'Zac']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Garen', 'Viego', 'Zac']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Zac']",Garen
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Zac']",Viego
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego']",Zac
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Zac']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Zac']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Zac']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Zac']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Zac']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Zac']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Zac']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Zac
+"['Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Poppy
+"['Morgana', 'Poppy', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Poppy', 'Elise', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Gragas
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",MissFortune
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Renekton', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko']",Aurora
+"['Poppy', 'Jhin', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Jhin', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Poppy
+"['Morgana', 'Poppy', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Jhin
+"['Morgana', 'Poppy', 'Jhin', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Gragas
+"['Morgana', 'Poppy', 'Jhin', 'Gragas', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",MissFortune
+"['Morgana', 'Poppy', 'Jhin', 'Gragas', 'MissFortune', 'Renekton', 'Garen', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Poppy', 'Jhin', 'Gragas', 'MissFortune', 'Zac', 'Garen', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Poppy', 'Jhin', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Garen
+"['Morgana', 'Poppy', 'Jhin', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Jhin', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Garen', 'Kobuko']",Aurora
+"['Poppy', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Kobuko', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Kobuko', 'Kobuko', 'Aurora']",Poppy
+"['Morgana', 'Poppy', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Kobuko', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Poppy', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Kobuko', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Poppy', 'Zac', 'Renekton', 'Urgot', 'Kobuko', 'Kobuko', 'Kobuko', 'Aurora']",Garen
+"['Morgana', 'Poppy', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Kobuko', 'Kobuko', 'Aurora']",Urgot
+"['Morgana', 'Poppy', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Kobuko', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Kobuko', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Kobuko', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Kobuko', 'Kobuko']",Aurora
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Garen']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Garen']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Garen']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Garen']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Garen
+"['Gragas', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Aurora', 'Aurora']",Morgana
+"['Morgana', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Aurora', 'Aurora']",Gragas
+"['Morgana', 'Gragas', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Aurora', 'Aurora']",Vex
+"['Morgana', 'Gragas', 'Vex', 'Zac', 'Garen', 'Urgot', 'Aurora', 'Aurora']",Chogath
+"['Morgana', 'Gragas', 'Vex', 'Chogath', 'Garen', 'Urgot', 'Aurora', 'Aurora']",Zac
+"['Morgana', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Urgot', 'Aurora', 'Aurora']",Garen
+"['Morgana', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Garen', 'Aurora', 'Aurora']",Urgot
+"['Morgana', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Aurora']",Aurora
+"['Morgana', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Aurora']",Aurora
+"['Graves', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Viego', 'Aurora']",Alistar
+"['Alistar', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Viego', 'Aurora']",Graves
+"['Alistar', 'Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Viego', 'Aurora']",Rhaast
+"['Alistar', 'Graves', 'Rhaast', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Viego', 'Aurora']",Jarvan
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Annie', 'Aphelios', 'Garen', 'Viego', 'Aurora']",Vex
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Aphelios', 'Garen', 'Viego', 'Aurora']",Annie
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Garen', 'Viego', 'Aurora']",Aphelios
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Viego', 'Aurora']",Garen
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Aurora']",Viego
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Viego']",Aurora
+"['Jax', 'Naafiri', 'Yuumi', 'Neeko', 'Sejuani', 'Annie', 'Samira', 'Zac']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Sejuani', 'Annie', 'Samira', 'Zac']",Jax
+"['NidaleeCougar', 'Jax', 'Yuumi', 'Neeko', 'Sejuani', 'Annie', 'Samira', 'Zac']",Naafiri
+"['NidaleeCougar', 'Jax', 'Naafiri', 'Neeko', 'Sejuani', 'Annie', 'Samira', 'Zac']",Yuumi
+"['NidaleeCougar', 'Jax', 'Naafiri', 'Yuumi', 'Sejuani', 'Annie', 'Samira', 'Zac']",Neeko
+"['NidaleeCougar', 'Jax', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Sejuani
+"['NidaleeCougar', 'Jax', 'Naafiri', 'Yuumi', 'Neeko', 'Sejuani', 'Samira', 'Zac']",Annie
+"['NidaleeCougar', 'Jax', 'Naafiri', 'Yuumi', 'Neeko', 'Sejuani', 'Annie', 'Zac']",Samira
+"['NidaleeCougar', 'Jax', 'Naafiri', 'Yuumi', 'Neeko', 'Sejuani', 'Annie', 'Samira']",Zac
+"['Graves', 'Senna', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Kobuko', 'Viego', 'Leona']",Alistar
+"['Alistar', 'Senna', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Kobuko', 'Viego', 'Leona']",Graves
+"['Alistar', 'Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Kobuko', 'Viego', 'Leona']",Senna
+"['Alistar', 'Graves', 'Senna', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Kobuko', 'Viego', 'Leona']",Jarvan
+"['Alistar', 'Graves', 'Senna', 'Jarvan', 'Annie', 'Aphelios', 'Garen', 'Kobuko', 'Viego', 'Leona']",Vex
+"['Alistar', 'Graves', 'Senna', 'Jarvan', 'Vex', 'Aphelios', 'Garen', 'Kobuko', 'Viego', 'Leona']",Annie
+"['Alistar', 'Graves', 'Senna', 'Jarvan', 'Vex', 'Annie', 'Garen', 'Kobuko', 'Viego', 'Leona']",Aphelios
+"['Alistar', 'Graves', 'Senna', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Kobuko', 'Viego', 'Leona']",Garen
+"['Alistar', 'Graves', 'Senna', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Viego', 'Leona']",Kobuko
+"['Alistar', 'Graves', 'Senna', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Kobuko', 'Leona']",Viego
+"['Alistar', 'Graves', 'Senna', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Kobuko', 'Viego']",Leona
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Garen']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Garen']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Garen']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Garen']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Garen
+"['Jax', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zac']",Morgana
+"['Morgana', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zac']",Jax
+"['Morgana', 'Jax', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zac']",Jhin
+"['Morgana', 'Jax', 'Jhin', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zac']",Varus
+"['Morgana', 'Jax', 'Jhin', 'Varus', 'Gragas', 'Vex', 'Sejuani', 'Zac']",Mordekaiser
+"['Morgana', 'Jax', 'Jhin', 'Varus', 'Mordekaiser', 'Vex', 'Sejuani', 'Zac']",Gragas
+"['Morgana', 'Jax', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Sejuani', 'Zac']",Vex
+"['Morgana', 'Jax', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Zac']",Sejuani
+"['Morgana', 'Jax', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani']",Zac
+"['LeBlanc', 'Draven', 'Jarvan', 'Galio', 'Yuumi', 'Zed', 'Zed', 'Renekton']",Vi
+"['Vi', 'Draven', 'Jarvan', 'Galio', 'Yuumi', 'Zed', 'Zed', 'Renekton']",LeBlanc
+"['Vi', 'LeBlanc', 'Jarvan', 'Galio', 'Yuumi', 'Zed', 'Zed', 'Renekton']",Draven
+"['Vi', 'LeBlanc', 'Draven', 'Galio', 'Yuumi', 'Zed', 'Zed', 'Renekton']",Jarvan
+"['Vi', 'LeBlanc', 'Draven', 'Jarvan', 'Yuumi', 'Zed', 'Zed', 'Renekton']",Galio
+"['Vi', 'LeBlanc', 'Draven', 'Jarvan', 'Galio', 'Zed', 'Zed', 'Renekton']",Yuumi
+"['Vi', 'LeBlanc', 'Draven', 'Jarvan', 'Galio', 'Yuumi', 'Zed', 'Renekton']",Zed
+"['Vi', 'LeBlanc', 'Draven', 'Jarvan', 'Galio', 'Yuumi', 'Zed', 'Renekton']",Zed
+"['Vi', 'LeBlanc', 'Draven', 'Jarvan', 'Galio', 'Yuumi', 'Zed', 'Zed']",Renekton
+"['Jarvan', 'Xayah', 'Annie', 'Leona', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Urgot']",Alistar
+"['Alistar', 'Xayah', 'Annie', 'Leona', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Urgot']",Jarvan
+"['Alistar', 'Jarvan', 'Annie', 'Leona', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Urgot']",Xayah
+"['Alistar', 'Jarvan', 'Xayah', 'Leona', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Urgot']",Annie
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Viego', 'Urgot']",Leona
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Leona', 'Zac', 'Garen', 'Viego', 'Urgot']",Aphelios
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Leona', 'Aphelios', 'Garen', 'Viego', 'Urgot']",Zac
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Leona', 'Aphelios', 'Zac', 'Viego', 'Urgot']",Garen
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Leona', 'Aphelios', 'Zac', 'Garen', 'Urgot']",Viego
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Leona', 'Aphelios', 'Zac', 'Garen', 'Viego']",Urgot
+"['Gnar', 'Kayle', 'Neeko', 'Mordekaiser', 'Karthus', 'Viego', 'Yorick', 'Kayn']",Lillia
+"['Lillia', 'Kayle', 'Neeko', 'Mordekaiser', 'Karthus', 'Viego', 'Yorick', 'Kayn']",Gnar
+"['Lillia', 'Gnar', 'Neeko', 'Mordekaiser', 'Karthus', 'Viego', 'Yorick', 'Kayn']",Kayle
+"['Lillia', 'Gnar', 'Kayle', 'Mordekaiser', 'Karthus', 'Viego', 'Yorick', 'Kayn']",Neeko
+"['Lillia', 'Gnar', 'Kayle', 'Neeko', 'Karthus', 'Viego', 'Yorick', 'Kayn']",Mordekaiser
+"['Lillia', 'Gnar', 'Kayle', 'Neeko', 'Mordekaiser', 'Viego', 'Yorick', 'Kayn']",Karthus
+"['Lillia', 'Gnar', 'Kayle', 'Neeko', 'Mordekaiser', 'Karthus', 'Yorick', 'Kayn']",Viego
+"['Lillia', 'Gnar', 'Kayle', 'Neeko', 'Mordekaiser', 'Karthus', 'Viego', 'Kayn']",Yorick
+"['Lillia', 'Gnar', 'Kayle', 'Neeko', 'Mordekaiser', 'Karthus', 'Viego', 'Yorick']",Kayn
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Viego']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Viego']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Viego']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Viego']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Viego', 'Viego']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Viego', 'Viego']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Viego', 'Viego']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego', 'Viego']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",Viego
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",Viego
+"['Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Neeko', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Renekton']",Zyra
+"['Zyra', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Neeko', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Renekton']",Veigar
+"['Zyra', 'Veigar', 'Mordekaiser', 'Fiddlesticks', 'Neeko', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Renekton']",Shyvana
+"['Zyra', 'Veigar', 'Shyvana', 'Fiddlesticks', 'Neeko', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Renekton']",Mordekaiser
+"['Zyra', 'Veigar', 'Shyvana', 'Mordekaiser', 'Neeko', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Renekton']",Fiddlesticks
+"['Zyra', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Ziggs', 'Kobuko', 'Viego', 'Renekton']",Neeko
+"['Zyra', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Neeko', 'Ziggs', 'Kobuko', 'Viego', 'Renekton']",Brand
+"['Zyra', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Neeko', 'Brand', 'Kobuko', 'Viego', 'Renekton']",Ziggs
+"['Zyra', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Neeko', 'Brand', 'Ziggs', 'Viego', 'Renekton']",Kobuko
+"['Zyra', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Neeko', 'Brand', 'Ziggs', 'Kobuko', 'Renekton']",Viego
+"['Zyra', 'Veigar', 'Shyvana', 'Mordekaiser', 'Fiddlesticks', 'Neeko', 'Brand', 'Ziggs', 'Kobuko', 'Viego']",Renekton
+"['DrMundo', 'Ekko', 'Neeko', 'Brand', 'Ziggs', 'Samira', 'Zac', 'Kobuko', 'Viego']",Zyra
+"['Zyra', 'Ekko', 'Neeko', 'Brand', 'Ziggs', 'Samira', 'Zac', 'Kobuko', 'Viego']",DrMundo
+"['Zyra', 'DrMundo', 'Neeko', 'Brand', 'Ziggs', 'Samira', 'Zac', 'Kobuko', 'Viego']",Ekko
+"['Zyra', 'DrMundo', 'Ekko', 'Brand', 'Ziggs', 'Samira', 'Zac', 'Kobuko', 'Viego']",Neeko
+"['Zyra', 'DrMundo', 'Ekko', 'Neeko', 'Ziggs', 'Samira', 'Zac', 'Kobuko', 'Viego']",Brand
+"['Zyra', 'DrMundo', 'Ekko', 'Neeko', 'Brand', 'Samira', 'Zac', 'Kobuko', 'Viego']",Ziggs
+"['Zyra', 'DrMundo', 'Ekko', 'Neeko', 'Brand', 'Ziggs', 'Zac', 'Kobuko', 'Viego']",Samira
+"['Zyra', 'DrMundo', 'Ekko', 'Neeko', 'Brand', 'Ziggs', 'Samira', 'Kobuko', 'Viego']",Zac
+"['Zyra', 'DrMundo', 'Ekko', 'Neeko', 'Brand', 'Ziggs', 'Samira', 'Zac', 'Viego']",Kobuko
+"['Zyra', 'DrMundo', 'Ekko', 'Neeko', 'Brand', 'Ziggs', 'Samira', 'Zac', 'Kobuko']",Viego
+"['TwistedFate', 'Darius', 'Rhaast', 'Braum', 'Draven', 'Gragas', 'MissFortune', 'Aurora']",Shaco
+"['Shaco', 'Darius', 'Rhaast', 'Braum', 'Draven', 'Gragas', 'MissFortune', 'Aurora']",TwistedFate
+"['Shaco', 'TwistedFate', 'Rhaast', 'Braum', 'Draven', 'Gragas', 'MissFortune', 'Aurora']",Darius
+"['Shaco', 'TwistedFate', 'Darius', 'Braum', 'Draven', 'Gragas', 'MissFortune', 'Aurora']",Rhaast
+"['Shaco', 'TwistedFate', 'Darius', 'Rhaast', 'Draven', 'Gragas', 'MissFortune', 'Aurora']",Braum
+"['Shaco', 'TwistedFate', 'Darius', 'Rhaast', 'Braum', 'Gragas', 'MissFortune', 'Aurora']",Draven
+"['Shaco', 'TwistedFate', 'Darius', 'Rhaast', 'Braum', 'Draven', 'MissFortune', 'Aurora']",Gragas
+"['Shaco', 'TwistedFate', 'Darius', 'Rhaast', 'Braum', 'Draven', 'Gragas', 'Aurora']",MissFortune
+"['Shaco', 'TwistedFate', 'Darius', 'Rhaast', 'Braum', 'Draven', 'Gragas', 'MissFortune']",Aurora
+"['Elise', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Aurora']",Morgana
+"['Morgana', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Aurora']",Elise
+"['Morgana', 'Elise', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Aurora']",Varus
+"['Morgana', 'Elise', 'Varus', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Aurora']",Mordekaiser
+"['Morgana', 'Elise', 'Varus', 'Mordekaiser', 'Vex', 'Sejuani', 'Renekton', 'Aurora']",Gragas
+"['Morgana', 'Elise', 'Varus', 'Mordekaiser', 'Gragas', 'Sejuani', 'Renekton', 'Aurora']",Vex
+"['Morgana', 'Elise', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Renekton', 'Aurora']",Sejuani
+"['Morgana', 'Elise', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Aurora']",Renekton
+"['Morgana', 'Elise', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton']",Aurora
+"['Seraphine', 'Jhin', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Sylas
+"['Sylas', 'Jhin', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Seraphine
+"['Sylas', 'Seraphine', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Jhin
+"['Sylas', 'Seraphine', 'Jhin', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Illaoi
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Yuumi
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Yuumi', 'Leona', 'Zac', 'Renekton', 'Aurora']",Xayah
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Yuumi', 'Xayah', 'Zac', 'Renekton', 'Aurora']",Leona
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Renekton', 'Aurora']",Zac
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Renekton
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton']",Aurora
+"['TwistedFate', 'Draven', 'Galio', 'Zed', 'Sejuani', 'Zeri', 'Renekton']",KogMaw
+"['KogMaw', 'Draven', 'Galio', 'Zed', 'Sejuani', 'Zeri', 'Renekton']",TwistedFate
+"['KogMaw', 'TwistedFate', 'Galio', 'Zed', 'Sejuani', 'Zeri', 'Renekton']",Draven
+"['KogMaw', 'TwistedFate', 'Draven', 'Zed', 'Sejuani', 'Zeri', 'Renekton']",Galio
+"['KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Zed
+"['KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zed', 'Zeri', 'Renekton']",Sejuani
+"['KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zed', 'Sejuani', 'Renekton']",Zeri
+"['KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zed', 'Sejuani', 'Zeri']",Renekton
+"['Skarner', 'Fiddlesticks', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Urgot', 'Urgot']",KogMaw
+"['KogMaw', 'Fiddlesticks', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Urgot', 'Urgot']",Skarner
+"['KogMaw', 'Skarner', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Urgot', 'Urgot']",Fiddlesticks
+"['KogMaw', 'Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Urgot', 'Urgot']",Gragas
+"['KogMaw', 'Skarner', 'Fiddlesticks', 'Gragas', 'Chogath', 'Zac', 'Urgot', 'Urgot']",Vex
+"['KogMaw', 'Skarner', 'Fiddlesticks', 'Gragas', 'Vex', 'Zac', 'Urgot', 'Urgot']",Chogath
+"['KogMaw', 'Skarner', 'Fiddlesticks', 'Gragas', 'Vex', 'Chogath', 'Urgot', 'Urgot']",Zac
+"['KogMaw', 'Skarner', 'Fiddlesticks', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Urgot']",Urgot
+"['KogMaw', 'Skarner', 'Fiddlesticks', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Urgot']",Urgot
+"['Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Sylas
+"['Sylas', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Vayne
+"['Sylas', 'Vayne', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Illaoi
+"['Sylas', 'Vayne', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Yuumi
+"['Sylas', 'Vayne', 'Illaoi', 'Yuumi', 'Leona', 'Zac', 'Renekton', 'Aurora']",Xayah
+"['Sylas', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Zac', 'Renekton', 'Aurora']",Leona
+"['Sylas', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Renekton', 'Aurora']",Zac
+"['Sylas', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Renekton
+"['Sylas', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton']",Aurora
+"['Kindred', 'Shyvana', 'Elise', 'MissFortune', 'Sejuani', 'Zac', 'Aurora', 'Viego', 'SummonLevel4', 'Garen']",NidaleeCougar
+"['NidaleeCougar', 'Shyvana', 'Elise', 'MissFortune', 'Sejuani', 'Zac', 'Aurora', 'Viego', 'SummonLevel4', 'Garen']",Kindred
+"['NidaleeCougar', 'Kindred', 'Elise', 'MissFortune', 'Sejuani', 'Zac', 'Aurora', 'Viego', 'SummonLevel4', 'Garen']",Shyvana
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'MissFortune', 'Sejuani', 'Zac', 'Aurora', 'Viego', 'SummonLevel4', 'Garen']",Elise
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Elise', 'Sejuani', 'Zac', 'Aurora', 'Viego', 'SummonLevel4', 'Garen']",MissFortune
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Elise', 'MissFortune', 'Zac', 'Aurora', 'Viego', 'SummonLevel4', 'Garen']",Sejuani
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Elise', 'MissFortune', 'Sejuani', 'Aurora', 'Viego', 'SummonLevel4', 'Garen']",Zac
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Elise', 'MissFortune', 'Sejuani', 'Zac', 'Viego', 'SummonLevel4', 'Garen']",Aurora
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Elise', 'MissFortune', 'Sejuani', 'Zac', 'Aurora', 'SummonLevel4', 'Garen']",Viego
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Elise', 'MissFortune', 'Sejuani', 'Zac', 'Aurora', 'Viego', 'Garen']",SummonLevel4
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Elise', 'MissFortune', 'Sejuani', 'Zac', 'Aurora', 'Viego', 'SummonLevel4']",Garen
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Kobuko']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Kobuko']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Kobuko']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Kobuko']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Kobuko']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Kobuko']",Ziggs
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Samira', 'Zac', 'Kobuko']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Zac', 'Kobuko']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Kobuko']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac']",Kobuko
+"['Sylas', 'Jhin', 'Rhaast', 'Jarvan', 'Xayah', 'Leona', 'Aphelios']",Kindred
+"['Kindred', 'Jhin', 'Rhaast', 'Jarvan', 'Xayah', 'Leona', 'Aphelios']",Sylas
+"['Kindred', 'Sylas', 'Rhaast', 'Jarvan', 'Xayah', 'Leona', 'Aphelios']",Jhin
+"['Kindred', 'Sylas', 'Jhin', 'Jarvan', 'Xayah', 'Leona', 'Aphelios']",Rhaast
+"['Kindred', 'Sylas', 'Jhin', 'Rhaast', 'Xayah', 'Leona', 'Aphelios']",Jarvan
+"['Kindred', 'Sylas', 'Jhin', 'Rhaast', 'Jarvan', 'Leona', 'Aphelios']",Xayah
+"['Kindred', 'Sylas', 'Jhin', 'Rhaast', 'Jarvan', 'Xayah', 'Aphelios']",Leona
+"['Kindred', 'Sylas', 'Jhin', 'Rhaast', 'Jarvan', 'Xayah', 'Leona']",Aphelios
+"['Ekko', 'Rengar', 'Fiddlesticks', 'Neeko', 'Brand', 'Samira', 'Zac', 'Viego', 'Chogath']",Zyra
+"['Zyra', 'Rengar', 'Fiddlesticks', 'Neeko', 'Brand', 'Samira', 'Zac', 'Viego', 'Chogath']",Ekko
+"['Zyra', 'Ekko', 'Fiddlesticks', 'Neeko', 'Brand', 'Samira', 'Zac', 'Viego', 'Chogath']",Rengar
+"['Zyra', 'Ekko', 'Rengar', 'Neeko', 'Brand', 'Samira', 'Zac', 'Viego', 'Chogath']",Fiddlesticks
+"['Zyra', 'Ekko', 'Rengar', 'Fiddlesticks', 'Brand', 'Samira', 'Zac', 'Viego', 'Chogath']",Neeko
+"['Zyra', 'Ekko', 'Rengar', 'Fiddlesticks', 'Neeko', 'Samira', 'Zac', 'Viego', 'Chogath']",Brand
+"['Zyra', 'Ekko', 'Rengar', 'Fiddlesticks', 'Neeko', 'Brand', 'Zac', 'Viego', 'Chogath']",Samira
+"['Zyra', 'Ekko', 'Rengar', 'Fiddlesticks', 'Neeko', 'Brand', 'Samira', 'Viego', 'Chogath']",Zac
+"['Zyra', 'Ekko', 'Rengar', 'Fiddlesticks', 'Neeko', 'Brand', 'Samira', 'Zac', 'Chogath']",Viego
+"['Zyra', 'Ekko', 'Rengar', 'Fiddlesticks', 'Neeko', 'Brand', 'Samira', 'Zac', 'Viego']",Chogath
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Kobuko']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Kobuko']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Kobuko']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Kobuko']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Viego', 'Kobuko']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Viego', 'Kobuko']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Viego', 'Kobuko']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego', 'Kobuko']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Kobuko']",Viego
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",Kobuko
+"['Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Kindred
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Jax
+"['Kindred', 'Jax', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",KogMaw
+"['Kindred', 'Jax', 'KogMaw', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",TwistedFate
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Draven
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Sejuani', 'Zeri', 'Renekton']",Galio
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zeri', 'Renekton']",Sejuani
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Renekton']",Zeri
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri']",Renekton
+"['Darius', 'Skarner', 'Mordekaiser', 'Fiddlesticks', 'Gragas', 'Chogath', 'Urgot', 'Kobuko']",KogMaw
+"['KogMaw', 'Skarner', 'Mordekaiser', 'Fiddlesticks', 'Gragas', 'Chogath', 'Urgot', 'Kobuko']",Darius
+"['KogMaw', 'Darius', 'Mordekaiser', 'Fiddlesticks', 'Gragas', 'Chogath', 'Urgot', 'Kobuko']",Skarner
+"['KogMaw', 'Darius', 'Skarner', 'Fiddlesticks', 'Gragas', 'Chogath', 'Urgot', 'Kobuko']",Mordekaiser
+"['KogMaw', 'Darius', 'Skarner', 'Mordekaiser', 'Gragas', 'Chogath', 'Urgot', 'Kobuko']",Fiddlesticks
+"['KogMaw', 'Darius', 'Skarner', 'Mordekaiser', 'Fiddlesticks', 'Chogath', 'Urgot', 'Kobuko']",Gragas
+"['KogMaw', 'Darius', 'Skarner', 'Mordekaiser', 'Fiddlesticks', 'Gragas', 'Urgot', 'Kobuko']",Chogath
+"['KogMaw', 'Darius', 'Skarner', 'Mordekaiser', 'Fiddlesticks', 'Gragas', 'Chogath', 'Kobuko']",Urgot
+"['KogMaw', 'Darius', 'Skarner', 'Mordekaiser', 'Fiddlesticks', 'Gragas', 'Chogath', 'Urgot']",Kobuko
+"['Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Kindred
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Jax
+"['Kindred', 'Jax', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",KogMaw
+"['Kindred', 'Jax', 'KogMaw', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",TwistedFate
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Draven
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Sejuani', 'Zeri', 'Renekton']",Galio
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zeri', 'Renekton']",Sejuani
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Renekton']",Zeri
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri']",Renekton
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Aurora']",Morgana
+"['Morgana', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Aurora']",Darius
+"['Morgana', 'Darius', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Aurora']",Rhaast
+"['Morgana', 'Darius', 'Rhaast', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Aurora']",Braum
+"['Morgana', 'Darius', 'Rhaast', 'Braum', 'Gragas', 'MissFortune', 'Zac', 'Aurora']",Elise
+"['Morgana', 'Darius', 'Rhaast', 'Braum', 'Elise', 'MissFortune', 'Zac', 'Aurora']",Gragas
+"['Morgana', 'Darius', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'Zac', 'Aurora']",MissFortune
+"['Morgana', 'Darius', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Aurora']",Zac
+"['Morgana', 'Darius', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Zac']",Aurora
+"['Jax', 'Poppy', 'Illaoi', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Garen', 'Aurora']",Morgana
+"['Morgana', 'Poppy', 'Illaoi', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Garen', 'Aurora']",Jax
+"['Morgana', 'Jax', 'Illaoi', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Garen', 'Aurora']",Poppy
+"['Morgana', 'Jax', 'Poppy', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Garen', 'Aurora']",Illaoi
+"['Morgana', 'Jax', 'Poppy', 'Illaoi', 'Galio', 'Sejuani', 'Renekton', 'Garen', 'Aurora']",Elise
+"['Morgana', 'Jax', 'Poppy', 'Illaoi', 'Elise', 'Sejuani', 'Renekton', 'Garen', 'Aurora']",Galio
+"['Morgana', 'Jax', 'Poppy', 'Illaoi', 'Elise', 'Galio', 'Renekton', 'Garen', 'Aurora']",Sejuani
+"['Morgana', 'Jax', 'Poppy', 'Illaoi', 'Elise', 'Galio', 'Sejuani', 'Garen', 'Aurora']",Renekton
+"['Morgana', 'Jax', 'Poppy', 'Illaoi', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Aurora']",Garen
+"['Morgana', 'Jax', 'Poppy', 'Illaoi', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Garen']",Aurora
+"['Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton', 'Urgot']",Kindred
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton', 'Urgot']",Jax
+"['Kindred', 'Jax', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton', 'Urgot']",KogMaw
+"['Kindred', 'Jax', 'KogMaw', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton', 'Urgot']",TwistedFate
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Galio', 'Sejuani', 'Zeri', 'Renekton', 'Urgot']",Draven
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Sejuani', 'Zeri', 'Renekton', 'Urgot']",Galio
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zeri', 'Renekton', 'Urgot']",Sejuani
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Renekton', 'Urgot']",Zeri
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Urgot']",Renekton
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Urgot
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Garen']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Garen']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Garen']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Garen']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Garen
+"['Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Poppy
+"['Morgana', 'Poppy', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Poppy', 'Elise', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Gragas
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",MissFortune
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Renekton', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko']",Aurora
+"['Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Zac', 'Renekton']",Kindred
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Zac', 'Renekton']",Jax
+"['Kindred', 'Jax', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Zac', 'Renekton']",KogMaw
+"['Kindred', 'Jax', 'KogMaw', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Zac', 'Renekton']",TwistedFate
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Galio', 'Sejuani', 'Zeri', 'Zac', 'Renekton']",Draven
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Sejuani', 'Zeri', 'Zac', 'Renekton']",Galio
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zeri', 'Zac', 'Renekton']",Sejuani
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zac', 'Renekton']",Zeri
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Zac
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Zac']",Renekton
+"['Darius', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri', 'Zac', 'Kobuko']",TwistedFate
+"['TwistedFate', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri', 'Zac', 'Kobuko']",Darius
+"['TwistedFate', 'Darius', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri', 'Zac', 'Kobuko']",Jhin
+"['TwistedFate', 'Darius', 'Jhin', 'MissFortune', 'Sejuani', 'Zeri', 'Zac', 'Kobuko']",Mordekaiser
+"['TwistedFate', 'Darius', 'Jhin', 'Mordekaiser', 'Sejuani', 'Zeri', 'Zac', 'Kobuko']",MissFortune
+"['TwistedFate', 'Darius', 'Jhin', 'Mordekaiser', 'MissFortune', 'Zeri', 'Zac', 'Kobuko']",Sejuani
+"['TwistedFate', 'Darius', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zac', 'Kobuko']",Zeri
+"['TwistedFate', 'Darius', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri', 'Kobuko']",Zac
+"['TwistedFate', 'Darius', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri', 'Zac']",Kobuko
+"['Jax', 'TwistedFate', 'Braum', 'Draven', 'MissFortune', 'Sejuani', 'Zeri', 'Renekton']",Kindred
+"['Kindred', 'TwistedFate', 'Braum', 'Draven', 'MissFortune', 'Sejuani', 'Zeri', 'Renekton']",Jax
+"['Kindred', 'Jax', 'Braum', 'Draven', 'MissFortune', 'Sejuani', 'Zeri', 'Renekton']",TwistedFate
+"['Kindred', 'Jax', 'TwistedFate', 'Draven', 'MissFortune', 'Sejuani', 'Zeri', 'Renekton']",Braum
+"['Kindred', 'Jax', 'TwistedFate', 'Braum', 'MissFortune', 'Sejuani', 'Zeri', 'Renekton']",Draven
+"['Kindred', 'Jax', 'TwistedFate', 'Braum', 'Draven', 'Sejuani', 'Zeri', 'Renekton']",MissFortune
+"['Kindred', 'Jax', 'TwistedFate', 'Braum', 'Draven', 'MissFortune', 'Zeri', 'Renekton']",Sejuani
+"['Kindred', 'Jax', 'TwistedFate', 'Braum', 'Draven', 'MissFortune', 'Sejuani', 'Renekton']",Zeri
+"['Kindred', 'Jax', 'TwistedFate', 'Braum', 'Draven', 'MissFortune', 'Sejuani', 'Zeri']",Renekton
+"['KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zed', 'Sejuani', 'Zeri', 'Renekton']",Jax
+"['Jax', 'TwistedFate', 'Draven', 'Galio', 'Zed', 'Sejuani', 'Zeri', 'Renekton']",KogMaw
+"['Jax', 'KogMaw', 'Draven', 'Galio', 'Zed', 'Sejuani', 'Zeri', 'Renekton']",TwistedFate
+"['Jax', 'KogMaw', 'TwistedFate', 'Galio', 'Zed', 'Sejuani', 'Zeri', 'Renekton']",Draven
+"['Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Zed', 'Sejuani', 'Zeri', 'Renekton']",Galio
+"['Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Zed
+"['Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zed', 'Zeri', 'Renekton']",Sejuani
+"['Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zed', 'Sejuani', 'Renekton']",Zeri
+"['Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zed', 'Sejuani', 'Zeri']",Renekton
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Kobuko', 'Viego', 'Renekton']",DrMundo
+"['DrMundo', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Kobuko', 'Viego', 'Renekton']",NidaleeCougar
+"['DrMundo', 'NidaleeCougar', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Kobuko', 'Viego', 'Renekton']",Naafiri
+"['DrMundo', 'NidaleeCougar', 'Naafiri', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Kobuko', 'Viego', 'Renekton']",Yuumi
+"['DrMundo', 'NidaleeCougar', 'Naafiri', 'Yuumi', 'Ziggs', 'Annie', 'Samira', 'Kobuko', 'Viego', 'Renekton']",Neeko
+"['DrMundo', 'NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Kobuko', 'Viego', 'Renekton']",Ziggs
+"['DrMundo', 'NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Samira', 'Kobuko', 'Viego', 'Renekton']",Annie
+"['DrMundo', 'NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Kobuko', 'Viego', 'Renekton']",Samira
+"['DrMundo', 'NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Viego', 'Renekton']",Kobuko
+"['DrMundo', 'NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Kobuko', 'Renekton']",Viego
+"['DrMundo', 'NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Kobuko', 'Viego']",Renekton
+"['Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Aurora']",Skarner
+"['Skarner', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Aurora']",Fiddlesticks
+"['Skarner', 'Fiddlesticks', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Aurora']",Vex
+"['Skarner', 'Fiddlesticks', 'Vex', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Aurora']",Chogath
+"['Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Aurora']",Zac
+"['Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Urgot', 'Kobuko', 'Viego', 'Aurora']",Garen
+"['Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Kobuko', 'Viego', 'Aurora']",Urgot
+"['Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Viego', 'Aurora']",Kobuko
+"['Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Aurora']",Viego
+"['Skarner', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego']",Aurora
+"['Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Renekton', 'Aurora', 'Viego', 'Aurora']",Sylas
+"['Sylas', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Renekton', 'Aurora', 'Viego', 'Aurora']",Seraphine
+"['Sylas', 'Seraphine', 'Illaoi', 'Xayah', 'Leona', 'Renekton', 'Aurora', 'Viego', 'Aurora']",Jhin
+"['Sylas', 'Seraphine', 'Jhin', 'Xayah', 'Leona', 'Renekton', 'Aurora', 'Viego', 'Aurora']",Illaoi
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Leona', 'Renekton', 'Aurora', 'Viego', 'Aurora']",Xayah
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Renekton', 'Aurora', 'Viego', 'Aurora']",Leona
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Aurora', 'Viego', 'Aurora']",Renekton
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Renekton', 'Viego', 'Aurora']",Aurora
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Renekton', 'Aurora', 'Aurora']",Viego
+"['Sylas', 'Seraphine', 'Jhin', 'Illaoi', 'Xayah', 'Leona', 'Renekton', 'Aurora', 'Viego']",Aurora
+"['Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Kindred
+"['Kindred', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Jax
+"['Kindred', 'Jax', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",KogMaw
+"['Kindred', 'Jax', 'KogMaw', 'Draven', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",TwistedFate
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Galio', 'Sejuani', 'Zeri', 'Renekton']",Draven
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Sejuani', 'Zeri', 'Renekton']",Galio
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Zeri', 'Renekton']",Sejuani
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Renekton']",Zeri
+"['Kindred', 'Jax', 'KogMaw', 'TwistedFate', 'Draven', 'Galio', 'Sejuani', 'Zeri']",Renekton
+"['Jax', 'Poppy', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Poppy', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Kobuko', 'Aurora']",Jax
+"['Morgana', 'Jax', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Kobuko', 'Aurora']",Poppy
+"['Morgana', 'Jax', 'Poppy', 'Galio', 'Sejuani', 'Renekton', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Jax', 'Poppy', 'Elise', 'Sejuani', 'Renekton', 'Kobuko', 'Aurora']",Galio
+"['Morgana', 'Jax', 'Poppy', 'Elise', 'Galio', 'Renekton', 'Kobuko', 'Aurora']",Sejuani
+"['Morgana', 'Jax', 'Poppy', 'Elise', 'Galio', 'Sejuani', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Jax', 'Poppy', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Aurora']",Kobuko
+"['Morgana', 'Jax', 'Poppy', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Kobuko']",Aurora
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Kobuko']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Kobuko']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Kobuko']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Kobuko']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego', 'Kobuko']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Garen', 'Viego', 'Kobuko']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Garen', 'Viego', 'Kobuko']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Garen', 'Viego', 'Kobuko']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Kobuko']",Garen
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Kobuko']",Viego
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen', 'Viego']",Kobuko
+"['DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Kobuko', 'Viego', 'Gragas']",Zyra
+"['Zyra', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Kobuko', 'Viego', 'Gragas']",DrMundo
+"['Zyra', 'DrMundo', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Kobuko', 'Viego', 'Gragas']",Alistar
+"['Zyra', 'DrMundo', 'Alistar', 'Veigar', 'Mordekaiser', 'Brand', 'Kobuko', 'Viego', 'Gragas']",Seraphine
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Mordekaiser', 'Brand', 'Kobuko', 'Viego', 'Gragas']",Veigar
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Brand', 'Kobuko', 'Viego', 'Gragas']",Mordekaiser
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Kobuko', 'Viego', 'Gragas']",Brand
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Viego', 'Gragas']",Kobuko
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Kobuko', 'Gragas']",Viego
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Kobuko', 'Viego']",Gragas
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Sylas']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Sylas']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Sylas']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Sylas']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Viego', 'Sylas']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Viego', 'Sylas']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Viego', 'Sylas']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego', 'Sylas']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Sylas']",Viego
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",Sylas
+"['Jhin', 'Elise', 'Mordekaiser', 'Gragas', 'Sejuani', 'Renekton', 'Aurora', 'Aurora']",Morgana
+"['Morgana', 'Elise', 'Mordekaiser', 'Gragas', 'Sejuani', 'Renekton', 'Aurora', 'Aurora']",Jhin
+"['Morgana', 'Jhin', 'Mordekaiser', 'Gragas', 'Sejuani', 'Renekton', 'Aurora', 'Aurora']",Elise
+"['Morgana', 'Jhin', 'Elise', 'Gragas', 'Sejuani', 'Renekton', 'Aurora', 'Aurora']",Mordekaiser
+"['Morgana', 'Jhin', 'Elise', 'Mordekaiser', 'Sejuani', 'Renekton', 'Aurora', 'Aurora']",Gragas
+"['Morgana', 'Jhin', 'Elise', 'Mordekaiser', 'Gragas', 'Renekton', 'Aurora', 'Aurora']",Sejuani
+"['Morgana', 'Jhin', 'Elise', 'Mordekaiser', 'Gragas', 'Sejuani', 'Aurora', 'Aurora']",Renekton
+"['Morgana', 'Jhin', 'Elise', 'Mordekaiser', 'Gragas', 'Sejuani', 'Renekton', 'Aurora']",Aurora
+"['Morgana', 'Jhin', 'Elise', 'Mordekaiser', 'Gragas', 'Sejuani', 'Renekton', 'Aurora']",Aurora
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Garen']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Garen']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Garen']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Garen']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac']",Garen
+"['Graves', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Aphelios', 'Urgot', 'Kobuko', 'Aurora']",Alistar
+"['Alistar', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Aphelios', 'Urgot', 'Kobuko', 'Aurora']",Graves
+"['Alistar', 'Graves', 'Senna', 'Jarvan', 'Vex', 'Aphelios', 'Urgot', 'Kobuko', 'Aurora']",Rhaast
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Aphelios', 'Urgot', 'Kobuko', 'Aurora']",Senna
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Vex', 'Aphelios', 'Urgot', 'Kobuko', 'Aurora']",Jarvan
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Aphelios', 'Urgot', 'Kobuko', 'Aurora']",Vex
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Urgot', 'Kobuko', 'Aurora']",Aphelios
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Aphelios', 'Kobuko', 'Aurora']",Urgot
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Aphelios', 'Urgot', 'Aurora']",Kobuko
+"['Alistar', 'Graves', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Aphelios', 'Urgot', 'Kobuko']",Aurora
+"['Veigar', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Aurora', 'Viego', 'Sejuani']",Morgana
+"['Morgana', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Aurora', 'Viego', 'Sejuani']",Veigar
+"['Morgana', 'Veigar', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Aurora', 'Viego', 'Sejuani']",Elise
+"['Morgana', 'Veigar', 'Elise', 'Zac', 'Renekton', 'Kobuko', 'Aurora', 'Viego', 'Sejuani']",Gragas
+"['Morgana', 'Veigar', 'Elise', 'Gragas', 'Renekton', 'Kobuko', 'Aurora', 'Viego', 'Sejuani']",Zac
+"['Morgana', 'Veigar', 'Elise', 'Gragas', 'Zac', 'Kobuko', 'Aurora', 'Viego', 'Sejuani']",Renekton
+"['Morgana', 'Veigar', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Aurora', 'Viego', 'Sejuani']",Kobuko
+"['Morgana', 'Veigar', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Viego', 'Sejuani']",Aurora
+"['Morgana', 'Veigar', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Aurora', 'Sejuani']",Viego
+"['Morgana', 'Veigar', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Aurora', 'Viego']",Sejuani
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Kobuko']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Kobuko']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Kobuko']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego', 'Kobuko']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Annie', 'Samira', 'Zac', 'Viego', 'Kobuko']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Samira', 'Zac', 'Viego', 'Kobuko']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Zac', 'Viego', 'Kobuko']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Viego', 'Kobuko']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Kobuko']",Viego
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Viego']",Kobuko
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Kobuko']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Kobuko']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Kobuko']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Kobuko']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Ziggs', 'Annie', 'Samira', 'Kobuko']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Kobuko']",Ziggs
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Samira', 'Kobuko']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Kobuko']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira']",Kobuko
+"['Elise', 'Mordekaiser', 'Gragas', 'MissFortune', 'Chogath', 'Renekton', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Mordekaiser', 'Gragas', 'MissFortune', 'Chogath', 'Renekton', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Elise', 'Gragas', 'MissFortune', 'Chogath', 'Renekton', 'Kobuko', 'Aurora']",Mordekaiser
+"['Morgana', 'Elise', 'Mordekaiser', 'MissFortune', 'Chogath', 'Renekton', 'Kobuko', 'Aurora']",Gragas
+"['Morgana', 'Elise', 'Mordekaiser', 'Gragas', 'Chogath', 'Renekton', 'Kobuko', 'Aurora']",MissFortune
+"['Morgana', 'Elise', 'Mordekaiser', 'Gragas', 'MissFortune', 'Renekton', 'Kobuko', 'Aurora']",Chogath
+"['Morgana', 'Elise', 'Mordekaiser', 'Gragas', 'MissFortune', 'Chogath', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Elise', 'Mordekaiser', 'Gragas', 'MissFortune', 'Chogath', 'Renekton', 'Aurora']",Kobuko
+"['Morgana', 'Elise', 'Mordekaiser', 'Gragas', 'MissFortune', 'Chogath', 'Renekton', 'Kobuko']",Aurora
+"['Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Aurora', 'Aurora']",Sejuani
+"['Sejuani', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Aurora', 'Aurora']",Chogath
+"['Sejuani', 'Chogath', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Aurora', 'Aurora']",Zac
+"['Sejuani', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Aurora', 'Aurora']",Renekton
+"['Sejuani', 'Chogath', 'Zac', 'Renekton', 'Urgot', 'Kobuko', 'Aurora', 'Aurora']",Garen
+"['Sejuani', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Kobuko', 'Aurora', 'Aurora']",Urgot
+"['Sejuani', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Aurora', 'Aurora']",Kobuko
+"['Sejuani', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Aurora']",Aurora
+"['Sejuani', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot', 'Kobuko', 'Aurora']",Aurora
+"['Veigar', 'Shyvana', 'Illaoi', 'Neeko', 'Sejuani', 'Ziggs', 'Renekton', 'Kobuko']",Poppy
+"['Poppy', 'Shyvana', 'Illaoi', 'Neeko', 'Sejuani', 'Ziggs', 'Renekton', 'Kobuko']",Veigar
+"['Poppy', 'Veigar', 'Illaoi', 'Neeko', 'Sejuani', 'Ziggs', 'Renekton', 'Kobuko']",Shyvana
+"['Poppy', 'Veigar', 'Shyvana', 'Neeko', 'Sejuani', 'Ziggs', 'Renekton', 'Kobuko']",Illaoi
+"['Poppy', 'Veigar', 'Shyvana', 'Illaoi', 'Sejuani', 'Ziggs', 'Renekton', 'Kobuko']",Neeko
+"['Poppy', 'Veigar', 'Shyvana', 'Illaoi', 'Neeko', 'Ziggs', 'Renekton', 'Kobuko']",Sejuani
+"['Poppy', 'Veigar', 'Shyvana', 'Illaoi', 'Neeko', 'Sejuani', 'Renekton', 'Kobuko']",Ziggs
+"['Poppy', 'Veigar', 'Shyvana', 'Illaoi', 'Neeko', 'Sejuani', 'Ziggs', 'Kobuko']",Renekton
+"['Poppy', 'Veigar', 'Shyvana', 'Illaoi', 'Neeko', 'Sejuani', 'Ziggs', 'Renekton']",Kobuko
+"['Jarvan', 'Xayah', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Kobuko', 'Kobuko', 'Viego', 'Jarvan']",Alistar
+"['Alistar', 'Xayah', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Kobuko', 'Kobuko', 'Viego', 'Jarvan']",Jarvan
+"['Alistar', 'Jarvan', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Kobuko', 'Kobuko', 'Viego', 'Jarvan']",Xayah
+"['Alistar', 'Jarvan', 'Xayah', 'Aphelios', 'Zac', 'Garen', 'Kobuko', 'Kobuko', 'Viego', 'Jarvan']",Annie
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Zac', 'Garen', 'Kobuko', 'Kobuko', 'Viego', 'Jarvan']",Aphelios
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Aphelios', 'Garen', 'Kobuko', 'Kobuko', 'Viego', 'Jarvan']",Zac
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Aphelios', 'Zac', 'Kobuko', 'Kobuko', 'Viego', 'Jarvan']",Garen
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Kobuko', 'Viego', 'Jarvan']",Kobuko
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Kobuko', 'Viego', 'Jarvan']",Kobuko
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Kobuko', 'Kobuko', 'Jarvan']",Viego
+"['Alistar', 'Jarvan', 'Xayah', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Kobuko', 'Kobuko', 'Viego']",Jarvan
+"['Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zac', 'Renekton', 'Garen', 'Aurora', 'Aurora']",Morgana
+"['Morgana', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zac', 'Renekton', 'Garen', 'Aurora', 'Aurora']",Varus
+"['Morgana', 'Varus', 'Gragas', 'Vex', 'Sejuani', 'Zac', 'Renekton', 'Garen', 'Aurora', 'Aurora']",Mordekaiser
+"['Morgana', 'Varus', 'Mordekaiser', 'Vex', 'Sejuani', 'Zac', 'Renekton', 'Garen', 'Aurora', 'Aurora']",Gragas
+"['Morgana', 'Varus', 'Mordekaiser', 'Gragas', 'Sejuani', 'Zac', 'Renekton', 'Garen', 'Aurora', 'Aurora']",Vex
+"['Morgana', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Zac', 'Renekton', 'Garen', 'Aurora', 'Aurora']",Sejuani
+"['Morgana', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton', 'Garen', 'Aurora', 'Aurora']",Zac
+"['Morgana', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zac', 'Garen', 'Aurora', 'Aurora']",Renekton
+"['Morgana', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zac', 'Renekton', 'Aurora', 'Aurora']",Garen
+"['Morgana', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zac', 'Renekton', 'Garen', 'Aurora']",Aurora
+"['Morgana', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Zac', 'Renekton', 'Garen', 'Aurora']",Aurora
+"['Nami', 'Gragas', 'Lulu', 'Ekko', 'TwistedFate', 'Blitzcrank', 'Illaoi', 'Sona', 'Ziggs']",Taric
+"['Taric', 'Gragas', 'Lulu', 'Ekko', 'TwistedFate', 'Blitzcrank', 'Illaoi', 'Sona', 'Ziggs']",Nami
+"['Taric', 'Nami', 'Lulu', 'Ekko', 'TwistedFate', 'Blitzcrank', 'Illaoi', 'Sona', 'Ziggs']",Gragas
+"['Taric', 'Nami', 'Gragas', 'Ekko', 'TwistedFate', 'Blitzcrank', 'Illaoi', 'Sona', 'Ziggs']",Lulu
+"['Taric', 'Nami', 'Gragas', 'Lulu', 'TwistedFate', 'Blitzcrank', 'Illaoi', 'Sona', 'Ziggs']",Ekko
+"['Taric', 'Nami', 'Gragas', 'Lulu', 'Ekko', 'Blitzcrank', 'Illaoi', 'Sona', 'Ziggs']",TwistedFate
+"['Taric', 'Nami', 'Gragas', 'Lulu', 'Ekko', 'TwistedFate', 'Illaoi', 'Sona', 'Ziggs']",Blitzcrank
+"['Taric', 'Nami', 'Gragas', 'Lulu', 'Ekko', 'TwistedFate', 'Blitzcrank', 'Sona', 'Ziggs']",Illaoi
+"['Taric', 'Nami', 'Gragas', 'Lulu', 'Ekko', 'TwistedFate', 'Blitzcrank', 'Illaoi', 'Ziggs']",Sona
+"['Taric', 'Nami', 'Gragas', 'Lulu', 'Ekko', 'TwistedFate', 'Blitzcrank', 'Illaoi', 'Sona']",Ziggs
+"['Jax', 'Poppy', 'Illaoi', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Aurora']",Morgana
+"['Morgana', 'Poppy', 'Illaoi', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Aurora']",Jax
+"['Morgana', 'Jax', 'Illaoi', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Aurora']",Poppy
+"['Morgana', 'Jax', 'Poppy', 'Elise', 'Galio', 'Sejuani', 'Renekton', 'Aurora']",Illaoi
+"['Morgana', 'Jax', 'Poppy', 'Illaoi', 'Galio', 'Sejuani', 'Renekton', 'Aurora']",Elise
+"['Morgana', 'Jax', 'Poppy', 'Illaoi', 'Elise', 'Sejuani', 'Renekton', 'Aurora']",Galio
+"['Morgana', 'Jax', 'Poppy', 'Illaoi', 'Elise', 'Galio', 'Renekton', 'Aurora']",Sejuani
+"['Morgana', 'Jax', 'Poppy', 'Illaoi', 'Elise', 'Galio', 'Sejuani', 'Aurora']",Renekton
+"['Morgana', 'Jax', 'Poppy', 'Illaoi', 'Elise', 'Galio', 'Sejuani', 'Renekton']",Aurora
+"['Katarina', 'Amumu', 'Vex', 'Samira', 'Sett', 'Urgot', 'Thresh']",TahmKench
+"['TahmKench', 'Amumu', 'Vex', 'Samira', 'Sett', 'Urgot', 'Thresh']",Katarina
+"['TahmKench', 'Katarina', 'Vex', 'Samira', 'Sett', 'Urgot', 'Thresh']",Amumu
+"['TahmKench', 'Katarina', 'Amumu', 'Samira', 'Sett', 'Urgot', 'Thresh']",Vex
+"['TahmKench', 'Katarina', 'Amumu', 'Vex', 'Sett', 'Urgot', 'Thresh']",Samira
+"['TahmKench', 'Katarina', 'Amumu', 'Vex', 'Samira', 'Urgot', 'Thresh']",Sett
+"['TahmKench', 'Katarina', 'Amumu', 'Vex', 'Samira', 'Sett', 'Thresh']",Urgot
+"['TahmKench', 'Katarina', 'Amumu', 'Vex', 'Samira', 'Sett', 'Urgot']",Thresh
+"['Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Sejuani', 'Renekton', 'Kobuko', 'Aurora']",Darius
+"['Darius', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Sejuani', 'Renekton', 'Kobuko', 'Aurora']",Rhaast
+"['Darius', 'Rhaast', 'Elise', 'Gragas', 'MissFortune', 'Sejuani', 'Renekton', 'Kobuko', 'Aurora']",Braum
+"['Darius', 'Rhaast', 'Braum', 'Gragas', 'MissFortune', 'Sejuani', 'Renekton', 'Kobuko', 'Aurora']",Elise
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'MissFortune', 'Sejuani', 'Renekton', 'Kobuko', 'Aurora']",Gragas
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'Sejuani', 'Renekton', 'Kobuko', 'Aurora']",MissFortune
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Renekton', 'Kobuko', 'Aurora']",Sejuani
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Sejuani', 'Kobuko', 'Aurora']",Renekton
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Sejuani', 'Renekton', 'Aurora']",Kobuko
+"['Darius', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Sejuani', 'Renekton', 'Kobuko']",Aurora
+"['Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Shyvana']",KogMaw
+"['KogMaw', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Shyvana']",Fiddlesticks
+"['KogMaw', 'Fiddlesticks', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Shyvana']",Vex
+"['KogMaw', 'Fiddlesticks', 'Vex', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Shyvana']",Chogath
+"['KogMaw', 'Fiddlesticks', 'Vex', 'Chogath', 'Garen', 'Urgot', 'Kobuko', 'Viego', 'Shyvana']",Zac
+"['KogMaw', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Urgot', 'Kobuko', 'Viego', 'Shyvana']",Garen
+"['KogMaw', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Kobuko', 'Viego', 'Shyvana']",Urgot
+"['KogMaw', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Viego', 'Shyvana']",Kobuko
+"['KogMaw', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Shyvana']",Viego
+"['KogMaw', 'Fiddlesticks', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot', 'Kobuko', 'Viego']",Shyvana
+"['Senna', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot']",Rhaast
+"['Rhaast', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot']",Senna
+"['Rhaast', 'Senna', 'Vex', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot']",Gragas
+"['Rhaast', 'Senna', 'Gragas', 'Chogath', 'Zac', 'Renekton', 'Garen', 'Urgot']",Vex
+"['Rhaast', 'Senna', 'Gragas', 'Vex', 'Zac', 'Renekton', 'Garen', 'Urgot']",Chogath
+"['Rhaast', 'Senna', 'Gragas', 'Vex', 'Chogath', 'Renekton', 'Garen', 'Urgot']",Zac
+"['Rhaast', 'Senna', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Garen', 'Urgot']",Renekton
+"['Rhaast', 'Senna', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Renekton', 'Urgot']",Garen
+"['Rhaast', 'Senna', 'Gragas', 'Vex', 'Chogath', 'Zac', 'Renekton', 'Garen']",Urgot
+"['Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Aurora']",Morgana
+"['Morgana', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Aurora']",Rhaast
+"['Morgana', 'Rhaast', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Aurora']",Braum
+"['Morgana', 'Rhaast', 'Braum', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Aurora']",Elise
+"['Morgana', 'Rhaast', 'Braum', 'Elise', 'MissFortune', 'Zac', 'Renekton', 'Aurora']",Gragas
+"['Morgana', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Aurora']",MissFortune
+"['Morgana', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Renekton', 'Aurora']",Zac
+"['Morgana', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Aurora']",Renekton
+"['Morgana', 'Rhaast', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton']",Aurora
+"['DrMundo', 'Ekko', 'Rengar', 'Mordekaiser', 'Neeko', 'Brand', 'Samira', 'Viego', 'Garen']",Zyra
+"['Zyra', 'Ekko', 'Rengar', 'Mordekaiser', 'Neeko', 'Brand', 'Samira', 'Viego', 'Garen']",DrMundo
+"['Zyra', 'DrMundo', 'Rengar', 'Mordekaiser', 'Neeko', 'Brand', 'Samira', 'Viego', 'Garen']",Ekko
+"['Zyra', 'DrMundo', 'Ekko', 'Mordekaiser', 'Neeko', 'Brand', 'Samira', 'Viego', 'Garen']",Rengar
+"['Zyra', 'DrMundo', 'Ekko', 'Rengar', 'Neeko', 'Brand', 'Samira', 'Viego', 'Garen']",Mordekaiser
+"['Zyra', 'DrMundo', 'Ekko', 'Rengar', 'Mordekaiser', 'Brand', 'Samira', 'Viego', 'Garen']",Neeko
+"['Zyra', 'DrMundo', 'Ekko', 'Rengar', 'Mordekaiser', 'Neeko', 'Samira', 'Viego', 'Garen']",Brand
+"['Zyra', 'DrMundo', 'Ekko', 'Rengar', 'Mordekaiser', 'Neeko', 'Brand', 'Viego', 'Garen']",Samira
+"['Zyra', 'DrMundo', 'Ekko', 'Rengar', 'Mordekaiser', 'Neeko', 'Brand', 'Samira', 'Garen']",Viego
+"['Zyra', 'DrMundo', 'Ekko', 'Rengar', 'Mordekaiser', 'Neeko', 'Brand', 'Samira', 'Viego']",Garen
+"['DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Garen', 'Kobuko', 'Viego', 'Xayah']",Zyra
+"['Zyra', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Garen', 'Kobuko', 'Viego', 'Xayah']",DrMundo
+"['Zyra', 'DrMundo', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Garen', 'Kobuko', 'Viego', 'Xayah']",Alistar
+"['Zyra', 'DrMundo', 'Alistar', 'Veigar', 'Mordekaiser', 'Brand', 'Garen', 'Kobuko', 'Viego', 'Xayah']",Seraphine
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Mordekaiser', 'Brand', 'Garen', 'Kobuko', 'Viego', 'Xayah']",Veigar
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Brand', 'Garen', 'Kobuko', 'Viego', 'Xayah']",Mordekaiser
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Garen', 'Kobuko', 'Viego', 'Xayah']",Brand
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Kobuko', 'Viego', 'Xayah']",Garen
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Garen', 'Viego', 'Xayah']",Kobuko
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Garen', 'Kobuko', 'Xayah']",Viego
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Garen', 'Kobuko', 'Viego']",Xayah
+"['Jax', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Viego', 'Renekton']",Morgana
+"['Morgana', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Viego', 'Renekton']",Jax
+"['Morgana', 'Jax', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Viego', 'Renekton']",Jhin
+"['Morgana', 'Jax', 'Jhin', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Viego', 'Renekton']",Varus
+"['Morgana', 'Jax', 'Jhin', 'Varus', 'Gragas', 'Vex', 'Sejuani', 'Viego', 'Renekton']",Mordekaiser
+"['Morgana', 'Jax', 'Jhin', 'Varus', 'Mordekaiser', 'Vex', 'Sejuani', 'Viego', 'Renekton']",Gragas
+"['Morgana', 'Jax', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Sejuani', 'Viego', 'Renekton']",Vex
+"['Morgana', 'Jax', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Viego', 'Renekton']",Sejuani
+"['Morgana', 'Jax', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Renekton']",Viego
+"['Morgana', 'Jax', 'Jhin', 'Varus', 'Mordekaiser', 'Gragas', 'Vex', 'Sejuani', 'Viego']",Renekton
+"['Senna', 'Jarvan', 'Gragas', 'Vex', 'Zed', 'Renekton', 'Garen', 'Kobuko']",Rhaast
+"['Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Zed', 'Renekton', 'Garen', 'Kobuko']",Senna
+"['Rhaast', 'Senna', 'Gragas', 'Vex', 'Zed', 'Renekton', 'Garen', 'Kobuko']",Jarvan
+"['Rhaast', 'Senna', 'Jarvan', 'Vex', 'Zed', 'Renekton', 'Garen', 'Kobuko']",Gragas
+"['Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Zed', 'Renekton', 'Garen', 'Kobuko']",Vex
+"['Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Renekton', 'Garen', 'Kobuko']",Zed
+"['Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Zed', 'Garen', 'Kobuko']",Renekton
+"['Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Zed', 'Renekton', 'Kobuko']",Garen
+"['Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Zed', 'Renekton', 'Garen']",Kobuko
+"['Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Poppy
+"['Morgana', 'Poppy', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Poppy', 'Elise', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Gragas
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",MissFortune
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Renekton', 'Kobuko', 'Aurora']",Zac
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Kobuko', 'Aurora']",Renekton
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko']",Aurora
+"['Jhin', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Sylas
+"['Sylas', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Jhin
+"['Sylas', 'Jhin', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Vayne
+"['Sylas', 'Jhin', 'Vayne', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Illaoi
+"['Sylas', 'Jhin', 'Vayne', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Renekton', 'Aurora']",Yuumi
+"['Sylas', 'Jhin', 'Vayne', 'Illaoi', 'Yuumi', 'Leona', 'Zac', 'Renekton', 'Aurora']",Xayah
+"['Sylas', 'Jhin', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Zac', 'Renekton', 'Aurora']",Leona
+"['Sylas', 'Jhin', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Renekton', 'Aurora']",Zac
+"['Sylas', 'Jhin', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Renekton
+"['Sylas', 'Jhin', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Renekton']",Aurora
+"['DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Kobuko', 'Viego', 'Viego']",Zyra
+"['Zyra', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Kobuko', 'Viego', 'Viego']",DrMundo
+"['Zyra', 'DrMundo', 'Seraphine', 'Veigar', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Kobuko', 'Viego', 'Viego']",Alistar
+"['Zyra', 'DrMundo', 'Alistar', 'Veigar', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Kobuko', 'Viego', 'Viego']",Seraphine
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Kobuko', 'Viego', 'Viego']",Veigar
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Fiddlesticks', 'Brand', 'Kobuko', 'Viego', 'Viego']",Mordekaiser
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Brand', 'Kobuko', 'Viego', 'Viego']",Fiddlesticks
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Fiddlesticks', 'Kobuko', 'Viego', 'Viego']",Brand
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Viego', 'Viego']",Kobuko
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Kobuko', 'Viego']",Viego
+"['Zyra', 'DrMundo', 'Alistar', 'Seraphine', 'Veigar', 'Mordekaiser', 'Fiddlesticks', 'Brand', 'Kobuko', 'Viego']",Viego
+"['Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora', 'Aurora']",Morgana
+"['Morgana', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora', 'Aurora']",Poppy
+"['Morgana', 'Poppy', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora', 'Aurora']",Elise
+"['Morgana', 'Poppy', 'Elise', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora', 'Aurora']",Gragas
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'Zac', 'Renekton', 'Kobuko', 'Aurora', 'Aurora']",MissFortune
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Renekton', 'Kobuko', 'Aurora', 'Aurora']",Zac
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Kobuko', 'Aurora', 'Aurora']",Renekton
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Aurora', 'Aurora']",Kobuko
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Aurora
+"['Morgana', 'Poppy', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Renekton', 'Kobuko', 'Aurora']",Aurora
+"['Shaco', 'Darius', 'Vayne', 'Braum', 'Senna', 'Jarvan', 'Zed', 'Zac', 'Renekton']",DrMundo
+"['DrMundo', 'Darius', 'Vayne', 'Braum', 'Senna', 'Jarvan', 'Zed', 'Zac', 'Renekton']",Shaco
+"['DrMundo', 'Shaco', 'Vayne', 'Braum', 'Senna', 'Jarvan', 'Zed', 'Zac', 'Renekton']",Darius
+"['DrMundo', 'Shaco', 'Darius', 'Braum', 'Senna', 'Jarvan', 'Zed', 'Zac', 'Renekton']",Vayne
+"['DrMundo', 'Shaco', 'Darius', 'Vayne', 'Senna', 'Jarvan', 'Zed', 'Zac', 'Renekton']",Braum
+"['DrMundo', 'Shaco', 'Darius', 'Vayne', 'Braum', 'Jarvan', 'Zed', 'Zac', 'Renekton']",Senna
+"['DrMundo', 'Shaco', 'Darius', 'Vayne', 'Braum', 'Senna', 'Zed', 'Zac', 'Renekton']",Jarvan
+"['DrMundo', 'Shaco', 'Darius', 'Vayne', 'Braum', 'Senna', 'Jarvan', 'Zac', 'Renekton']",Zed
+"['DrMundo', 'Shaco', 'Darius', 'Vayne', 'Braum', 'Senna', 'Jarvan', 'Zed', 'Renekton']",Zac
+"['DrMundo', 'Shaco', 'Darius', 'Vayne', 'Braum', 'Senna', 'Jarvan', 'Zed', 'Zac']",Renekton
+"['Rhaast', 'Senna', 'Gragas', 'Vex', 'Chogath', 'Renekton', 'Garen', 'Urgot']",Morgana
+"['Morgana', 'Senna', 'Gragas', 'Vex', 'Chogath', 'Renekton', 'Garen', 'Urgot']",Rhaast
+"['Morgana', 'Rhaast', 'Gragas', 'Vex', 'Chogath', 'Renekton', 'Garen', 'Urgot']",Senna
+"['Morgana', 'Rhaast', 'Senna', 'Vex', 'Chogath', 'Renekton', 'Garen', 'Urgot']",Gragas
+"['Morgana', 'Rhaast', 'Senna', 'Gragas', 'Chogath', 'Renekton', 'Garen', 'Urgot']",Vex
+"['Morgana', 'Rhaast', 'Senna', 'Gragas', 'Vex', 'Renekton', 'Garen', 'Urgot']",Chogath
+"['Morgana', 'Rhaast', 'Senna', 'Gragas', 'Vex', 'Chogath', 'Garen', 'Urgot']",Renekton
+"['Morgana', 'Rhaast', 'Senna', 'Gragas', 'Vex', 'Chogath', 'Renekton', 'Urgot']",Garen
+"['Morgana', 'Rhaast', 'Senna', 'Gragas', 'Vex', 'Chogath', 'Renekton', 'Garen']",Urgot
+"['KogMaw', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri', 'Chogath', 'Renekton']",Jax
+"['Jax', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri', 'Chogath', 'Renekton']",KogMaw
+"['Jax', 'KogMaw', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri', 'Chogath', 'Renekton']",Jhin
+"['Jax', 'KogMaw', 'Jhin', 'MissFortune', 'Sejuani', 'Zeri', 'Chogath', 'Renekton']",Mordekaiser
+"['Jax', 'KogMaw', 'Jhin', 'Mordekaiser', 'Sejuani', 'Zeri', 'Chogath', 'Renekton']",MissFortune
+"['Jax', 'KogMaw', 'Jhin', 'Mordekaiser', 'MissFortune', 'Zeri', 'Chogath', 'Renekton']",Sejuani
+"['Jax', 'KogMaw', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Chogath', 'Renekton']",Zeri
+"['Jax', 'KogMaw', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri', 'Renekton']",Chogath
+"['Jax', 'KogMaw', 'Jhin', 'Mordekaiser', 'MissFortune', 'Sejuani', 'Zeri', 'Chogath']",Renekton
+"['Morgana', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Zed', 'Renekton']",DrMundo
+"['DrMundo', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Zed', 'Renekton']",Morgana
+"['DrMundo', 'Morgana', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Zed', 'Renekton']",Rhaast
+"['DrMundo', 'Morgana', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Zed', 'Renekton']",Senna
+"['DrMundo', 'Morgana', 'Rhaast', 'Senna', 'Gragas', 'Vex', 'Zed', 'Renekton']",Jarvan
+"['DrMundo', 'Morgana', 'Rhaast', 'Senna', 'Jarvan', 'Vex', 'Zed', 'Renekton']",Gragas
+"['DrMundo', 'Morgana', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Zed', 'Renekton']",Vex
+"['DrMundo', 'Morgana', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Renekton']",Zed
+"['DrMundo', 'Morgana', 'Rhaast', 'Senna', 'Jarvan', 'Gragas', 'Vex', 'Zed']",Renekton
+"['Veigar', 'Mordekaiser', 'Gragas', 'Vex', 'Chogath', 'Garen', 'Urgot', 'Kobuko']",Alistar
+"['Alistar', 'Mordekaiser', 'Gragas', 'Vex', 'Chogath', 'Garen', 'Urgot', 'Kobuko']",Veigar
+"['Alistar', 'Veigar', 'Gragas', 'Vex', 'Chogath', 'Garen', 'Urgot', 'Kobuko']",Mordekaiser
+"['Alistar', 'Veigar', 'Mordekaiser', 'Vex', 'Chogath', 'Garen', 'Urgot', 'Kobuko']",Gragas
+"['Alistar', 'Veigar', 'Mordekaiser', 'Gragas', 'Chogath', 'Garen', 'Urgot', 'Kobuko']",Vex
+"['Alistar', 'Veigar', 'Mordekaiser', 'Gragas', 'Vex', 'Garen', 'Urgot', 'Kobuko']",Chogath
+"['Alistar', 'Veigar', 'Mordekaiser', 'Gragas', 'Vex', 'Chogath', 'Urgot', 'Kobuko']",Garen
+"['Alistar', 'Veigar', 'Mordekaiser', 'Gragas', 'Vex', 'Chogath', 'Garen', 'Kobuko']",Urgot
+"['Alistar', 'Veigar', 'Mordekaiser', 'Gragas', 'Vex', 'Chogath', 'Garen', 'Urgot']",Kobuko
+"['Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Urgot', 'Kobuko']",Alistar
+"['Alistar', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Urgot', 'Kobuko']",Graves
+"['Alistar', 'Graves', 'Vex', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Urgot', 'Kobuko']",Jarvan
+"['Alistar', 'Graves', 'Jarvan', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Urgot', 'Kobuko']",Vex
+"['Alistar', 'Graves', 'Jarvan', 'Vex', 'Aphelios', 'Zac', 'Garen', 'Urgot', 'Kobuko']",Annie
+"['Alistar', 'Graves', 'Jarvan', 'Vex', 'Annie', 'Zac', 'Garen', 'Urgot', 'Kobuko']",Aphelios
+"['Alistar', 'Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Garen', 'Urgot', 'Kobuko']",Zac
+"['Alistar', 'Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Zac', 'Urgot', 'Kobuko']",Garen
+"['Alistar', 'Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Kobuko']",Urgot
+"['Alistar', 'Graves', 'Jarvan', 'Vex', 'Annie', 'Aphelios', 'Zac', 'Garen', 'Urgot']",Kobuko
+"['Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Garen']",NidaleeCougar
+"['NidaleeCougar', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Garen']",Ekko
+"['NidaleeCougar', 'Ekko', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Garen']",Naafiri
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Garen']",Yuumi
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Ziggs', 'Annie', 'Samira', 'Zac', 'Garen']",Neeko
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Annie', 'Samira', 'Zac', 'Garen']",Ziggs
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Samira', 'Zac', 'Garen']",Annie
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Zac', 'Garen']",Samira
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Garen']",Zac
+"['NidaleeCougar', 'Ekko', 'Naafiri', 'Yuumi', 'Neeko', 'Ziggs', 'Annie', 'Samira', 'Zac']",Garen
+"['Jhin', 'Rhaast', 'Elise', 'Mordekaiser', 'Gragas', 'Chogath', 'Kobuko', 'Aurora']",Morgana
+"['Morgana', 'Rhaast', 'Elise', 'Mordekaiser', 'Gragas', 'Chogath', 'Kobuko', 'Aurora']",Jhin
+"['Morgana', 'Jhin', 'Elise', 'Mordekaiser', 'Gragas', 'Chogath', 'Kobuko', 'Aurora']",Rhaast
+"['Morgana', 'Jhin', 'Rhaast', 'Mordekaiser', 'Gragas', 'Chogath', 'Kobuko', 'Aurora']",Elise
+"['Morgana', 'Jhin', 'Rhaast', 'Elise', 'Gragas', 'Chogath', 'Kobuko', 'Aurora']",Mordekaiser
+"['Morgana', 'Jhin', 'Rhaast', 'Elise', 'Mordekaiser', 'Chogath', 'Kobuko', 'Aurora']",Gragas
+"['Morgana', 'Jhin', 'Rhaast', 'Elise', 'Mordekaiser', 'Gragas', 'Kobuko', 'Aurora']",Chogath
+"['Morgana', 'Jhin', 'Rhaast', 'Elise', 'Mordekaiser', 'Gragas', 'Chogath', 'Aurora']",Kobuko
+"['Morgana', 'Jhin', 'Rhaast', 'Elise', 'Mordekaiser', 'Gragas', 'Chogath', 'Kobuko']",Aurora
+"['Braum', 'Elise', 'Gragas', 'MissFortune', 'Leona', 'Zac', 'Kobuko', 'Aurora', 'Aurora', 'Aurora']",Darius
+"['Darius', 'Elise', 'Gragas', 'MissFortune', 'Leona', 'Zac', 'Kobuko', 'Aurora', 'Aurora', 'Aurora']",Braum
+"['Darius', 'Braum', 'Gragas', 'MissFortune', 'Leona', 'Zac', 'Kobuko', 'Aurora', 'Aurora', 'Aurora']",Elise
+"['Darius', 'Braum', 'Elise', 'MissFortune', 'Leona', 'Zac', 'Kobuko', 'Aurora', 'Aurora', 'Aurora']",Gragas
+"['Darius', 'Braum', 'Elise', 'Gragas', 'Leona', 'Zac', 'Kobuko', 'Aurora', 'Aurora', 'Aurora']",MissFortune
+"['Darius', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Zac', 'Kobuko', 'Aurora', 'Aurora', 'Aurora']",Leona
+"['Darius', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Leona', 'Kobuko', 'Aurora', 'Aurora', 'Aurora']",Zac
+"['Darius', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Leona', 'Zac', 'Aurora', 'Aurora', 'Aurora']",Kobuko
+"['Darius', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Leona', 'Zac', 'Kobuko', 'Aurora', 'Aurora']",Aurora
+"['Darius', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Leona', 'Zac', 'Kobuko', 'Aurora', 'Aurora']",Aurora
+"['Darius', 'Braum', 'Elise', 'Gragas', 'MissFortune', 'Leona', 'Zac', 'Kobuko', 'Aurora', 'Aurora']",Aurora
+"['Seraphine', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Sylas
+"['Sylas', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Seraphine
+"['Sylas', 'Seraphine', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Vayne
+"['Sylas', 'Seraphine', 'Vayne', 'Yuumi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Illaoi
+"['Sylas', 'Seraphine', 'Vayne', 'Illaoi', 'Xayah', 'Leona', 'Zac', 'Aurora']",Yuumi
+"['Sylas', 'Seraphine', 'Vayne', 'Illaoi', 'Yuumi', 'Leona', 'Zac', 'Aurora']",Xayah
+"['Sylas', 'Seraphine', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Zac', 'Aurora']",Leona
+"['Sylas', 'Seraphine', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Aurora']",Zac
+"['Sylas', 'Seraphine', 'Vayne', 'Illaoi', 'Yuumi', 'Xayah', 'Leona', 'Zac']",Aurora
+"['Kindred', 'Shyvana', 'Jhin', 'Elise', 'Sejuani', 'Annie', 'Zeri', 'Viego', 'SummonLevel4', 'Rhaast']",NidaleeCougar
+"['NidaleeCougar', 'Shyvana', 'Jhin', 'Elise', 'Sejuani', 'Annie', 'Zeri', 'Viego', 'SummonLevel4', 'Rhaast']",Kindred
+"['NidaleeCougar', 'Kindred', 'Jhin', 'Elise', 'Sejuani', 'Annie', 'Zeri', 'Viego', 'SummonLevel4', 'Rhaast']",Shyvana
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Elise', 'Sejuani', 'Annie', 'Zeri', 'Viego', 'SummonLevel4', 'Rhaast']",Jhin
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Jhin', 'Sejuani', 'Annie', 'Zeri', 'Viego', 'SummonLevel4', 'Rhaast']",Elise
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Jhin', 'Elise', 'Annie', 'Zeri', 'Viego', 'SummonLevel4', 'Rhaast']",Sejuani
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Jhin', 'Elise', 'Sejuani', 'Zeri', 'Viego', 'SummonLevel4', 'Rhaast']",Annie
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Jhin', 'Elise', 'Sejuani', 'Annie', 'Viego', 'SummonLevel4', 'Rhaast']",Zeri
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Jhin', 'Elise', 'Sejuani', 'Annie', 'Zeri', 'SummonLevel4', 'Rhaast']",Viego
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Jhin', 'Elise', 'Sejuani', 'Annie', 'Zeri', 'Viego', 'Rhaast']",SummonLevel4
+"['NidaleeCougar', 'Kindred', 'Shyvana', 'Jhin', 'Elise', 'Sejuani', 'Annie', 'Zeri', 'Viego', 'SummonLevel4']",Rhaast
+"['Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Xayah', 'Leona', 'Aphelios']",Alistar
+"['Alistar', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Xayah', 'Leona', 'Aphelios']",Graves
+"['Alistar', 'Graves', 'Jarvan', 'Gragas', 'Vex', 'Xayah', 'Leona', 'Aphelios']",Rhaast
+"['Alistar', 'Graves', 'Rhaast', 'Gragas', 'Vex', 'Xayah', 'Leona', 'Aphelios']",Jarvan
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Vex', 'Xayah', 'Leona', 'Aphelios']",Gragas
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Xayah', 'Leona', 'Aphelios']",Vex
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Leona', 'Aphelios']",Xayah
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Xayah', 'Aphelios']",Leona
+"['Alistar', 'Graves', 'Rhaast', 'Jarvan', 'Gragas', 'Vex', 'Xayah', 'Leona']",Aphelios
+"['Jax', 'Poppy', 'Veigar', 'Shyvana', 'Jhin', 'Elise', 'Galio', 'MissFortune', 'Sejuani']",Morgana
+"['Morgana', 'Poppy', 'Veigar', 'Shyvana', 'Jhin', 'Elise', 'Galio', 'MissFortune', 'Sejuani']",Jax
+"['Morgana', 'Jax', 'Veigar', 'Shyvana', 'Jhin', 'Elise', 'Galio', 'MissFortune', 'Sejuani']",Poppy
+"['Morgana', 'Jax', 'Poppy', 'Shyvana', 'Jhin', 'Elise', 'Galio', 'MissFortune', 'Sejuani']",Veigar
+"['Morgana', 'Jax', 'Poppy', 'Veigar', 'Jhin', 'Elise', 'Galio', 'MissFortune', 'Sejuani']",Shyvana
+"['Morgana', 'Jax', 'Poppy', 'Veigar', 'Shyvana', 'Elise', 'Galio', 'MissFortune', 'Sejuani']",Jhin
+"['Morgana', 'Jax', 'Poppy', 'Veigar', 'Shyvana', 'Jhin', 'Galio', 'MissFortune', 'Sejuani']",Elise
+"['Morgana', 'Jax', 'Poppy', 'Veigar', 'Shyvana', 'Jhin', 'Elise', 'MissFortune', 'Sejuani']",Galio
+"['Morgana', 'Jax', 'Poppy', 'Veigar', 'Shyvana', 'Jhin', 'Elise', 'Galio', 'Sejuani']",MissFortune
+"['Morgana', 'Jax', 'Poppy', 'Veigar', 'Shyvana', 'Jhin', 'Elise', 'Galio', 'MissFortune']",Sejuani
+"['Ekko', 'LeBlanc', 'Rengar', 'Mordekaiser', 'Yuumi', 'Neeko', 'Brand', 'Ziggs', 'Samira']",DrMundo
+"['DrMundo', 'LeBlanc', 'Rengar', 'Mordekaiser', 'Yuumi', 'Neeko', 'Brand', 'Ziggs', 'Samira']",Ekko
+"['DrMundo', 'Ekko', 'Rengar', 'Mordekaiser', 'Yuumi', 'Neeko', 'Brand', 'Ziggs', 'Samira']",LeBlanc
+"['DrMundo', 'Ekko', 'LeBlanc', 'Mordekaiser', 'Yuumi', 'Neeko', 'Brand', 'Ziggs', 'Samira']",Rengar
+"['DrMundo', 'Ekko', 'LeBlanc', 'Rengar', 'Yuumi', 'Neeko', 'Brand', 'Ziggs', 'Samira']",Mordekaiser
+"['DrMundo', 'Ekko', 'LeBlanc', 'Rengar', 'Mordekaiser', 'Neeko', 'Brand', 'Ziggs', 'Samira']",Yuumi
+"['DrMundo', 'Ekko', 'LeBlanc', 'Rengar', 'Mordekaiser', 'Yuumi', 'Brand', 'Ziggs', 'Samira']",Neeko
+"['DrMundo', 'Ekko', 'LeBlanc', 'Rengar', 'Mordekaiser', 'Yuumi', 'Neeko', 'Ziggs', 'Samira']",Brand
+"['DrMundo', 'Ekko', 'LeBlanc', 'Rengar', 'Mordekaiser', 'Yuumi', 'Neeko', 'Brand', 'Samira']",Ziggs
+"['DrMundo', 'Ekko', 'LeBlanc', 'Rengar', 'Mordekaiser', 'Yuumi', 'Neeko', 'Brand', 'Ziggs']",Samira

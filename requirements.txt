@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+requests
+flatten-json
+sqlalchemy
+pyodbc
+urllib3
+torch
+torchvision
+tqdm
