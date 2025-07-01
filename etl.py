@@ -8,12 +8,18 @@ from sqlalchemy import create_engine
 
 import concurrent.futures
 
-api_key = 'RGAPI-blablabla'
+from dotenv import load_dotenv
+import os
+import time
+
+from prefect import flow, task
+
+#api_key = 'RGAPI-blablabla'
 platforms = ["NA1", "KR", "EUW1", "SG2"]
 regions = {"Americas": ["NA1", "BR1"], "Asia": ["KR", "JP"], "Europe": ["EUW1"], "SEA": ["SG2"]}
 
-sql_server = "tftopt.database.windows.net"
-sql_database = "tftopt"
+#sql_server = "tftopt.database.windows.net"
+#sql_database = "tftopt"
 
 #------------------------------------------------
 # Concurrent API calls from regional endpoints
@@ -24,10 +30,26 @@ def pipeline_for_server(platform, api_key, n_matches=10):
         print(f"🔄 Starting pipeline for {platform}")
         puuids = get_challengers(platform, api_key)
         region = next((region for region, platforms in regions.items() if platform in platforms), None)
-        puuids = puuids[:5]
-        match_ids = get_matches(puuids, region, n_matches, api_key)
+        batch_size = 5
+        n_puuids = 50
+        match_ids = set()
+        puuids = puuids[:n_puuids]
+        all_match_ids = set()
+        # Process PUUIDs in chunks of 5
+        for i in range(0, len(puuids), batch_size):
+            print(f"Getting matches for {i+1} to {i+5}-th PUUIDs...")
+            puuid_chunk = puuids[i:i + 5]
+
+            # Extract match IDs for this chunk
+            match_ids = get_matches(puuid_chunk, region, n_matches, api_key)
+            all_match_ids.update(match_ids)
+
+            # Wait 10 seconds between batches
+            if i + 5 < len(puuids):  # Avoid waiting after last chunk
+                time.sleep(10)
         db = get_matches_info(match_ids, region, api_key)
-        print(f"✅ Finished pipeline for {platform}")
+
+        print(f"✅ Finished pipeline for {platform}, {len(db)} matches from {n_puuids} Challengers processed.")
         return db
     except Exception as e:
         print(f"❌ Error in pipeline for {platform}: {e}")
@@ -46,17 +68,7 @@ def use_data_pipeline(match_data) -> 'DataFrame':
 
     match_data = pipe_analysis.fit_transform(match_data)
     match_data.to_csv('data/analysis.csv', index = False)
-    print(f"Dataframe with {match_data.shape[0]} boards and {match_data.shape[1]} columns saved to analysis.csv.")
-
-    """
-    # Pipeline for predictor
-    pipe_analysis = Pipeline([
-    ])
-
-    match_data = pipe_analysis.fit_transform(match_data)
-    match_data.to_csv('data/pred.csv', index = False)
-    print(f"Dataframe with {match_data.shape[0]} boards and {match_data.shape[1]} columns saved.")
-    """
+    print(f"✅ Dataframe with {match_data.shape[0]} boards and {match_data.shape[1]} columns saved to analysis.csv.")
 
     # Pipeline for optimiser. Only retains 1st place boards
     pipe_opt = Pipeline([
@@ -69,25 +81,11 @@ def use_data_pipeline(match_data) -> 'DataFrame':
 
     train_opt.to_csv('data/train_opt.csv', index = False)
     val_opt.to_csv('data/val_opt.csv', index = False)
-    print(f"Dataframes with {match_data.shape[0]} rows and {match_data.shape[1]} columns saved to _opt.csv.")
+    print(f"✅ Dataframe with {train_opt.shape[0]} rows and {train_opt.shape[1]} columns saved to train_opt.csv.")
+    print(f"✅ Dataframes with {val_opt.shape[0]} rows and {val_opt.shape[1]} columns saved to val_opt.csv.")
     #save_to_sql(match_data, "opt", sql_server, sql_database, username, password)              # Azure is expensive!
 
 def save_to_sql(df, table_name, server, database, username, password, if_exists='replace'):
-    """
-    Saves a pandas DataFrame to an Azure SQL table.
-
-    Parameters:
-        df (pd.DataFrame): The DataFrame to save.
-        table_name (str): The target table name in Azure SQL.
-        server (str): Azure SQL server name (e.g. 'your-server.database.windows.net').
-        database (str): Name of the database on the server.
-        username (str): SQL login username.
-        password (str): SQL login password.
-        if_exists (str): 'replace', 'append', or 'fail'. Default is 'replace'.
-
-    Returns:
-        None
-    """
     try:
         connection_string = urllib.parse.quote_plus(
             f"DRIVER={{ODBC Driver 17 for SQL Server}};"
@@ -108,6 +106,9 @@ def save_to_sql(df, table_name, server, database, username, password, if_exists=
 #--------------------------------------
 
 if __name__ == '__main__':
+    load_dotenv('.env')
+    api_key = os.getenv('RIOT_API_KEY')
+
     dbs = []
     with concurrent.futures.ThreadPoolExecutor() as executor:
         futures = [executor.submit(pipeline_for_server, platform, api_key) for platform in platforms]
@@ -116,35 +117,5 @@ if __name__ == '__main__':
             if not db.empty:
                 dbs.append(db)
 
-    #puuids = get_challengers(platform, api_key)
-    #region = next((region for region, platforms in regions.items() if platform in platforms), None)
-    #puuids = puuids[0:10]
-    #match_ids = get_matches(puuids, region, n, api_key)
-    #db = get_matches_info(match_ids, region, api_key)
     dbs = pd.concat(dbs, ignore_index=True)
     use_data_pipeline(dbs)
-
-"""
-def get_profile(server, username, region, api_key) -> dict:
-    profile_url = ('https://' + server + '.api.riotgames.com/riot/account/v1/accounts/by-riot-id/' + username
-    + '/' + region+ '?api_key=' + api_key)
-    try:
-        profile_resp = requests.get(profile_url, timeout = 60)
-        profile_info = profile_resp.json()
-        print(profile_info)
-        return profile_info
-    except:
-"""
-"""
-    # Pipeline for optimiser. Only retains 1st place boards
-    pipe_opt = Pipeline([
-        ("counttacticians", CountTacticianItems()),
-        ("calculateboardsize", CalculateBoardSize()),
-        ("dropnonfirst", DropNonFirst()),
-        ("dropirrelevant", DropIrrelevant()),
-        ("droptraits", DropTraits()),
-        ("dropitems", DropItems()),
-        ("droptierrarity", DropTierRarity()),
-        ("dropskill", DropSkill()),
-    ])
-"""
