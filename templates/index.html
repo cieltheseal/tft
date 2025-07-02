@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Best Unit Predictor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        select, input[type="submit"] {
+            padding: 8px;
+            margin-bottom: 10px;
+            width: 300px;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Best Unit Predictor</h1>
+	<form method="POST" action="/">
+		{% for i in range(10) %}
+			<label>Unit {{ i + 1 }}</label><br>
+			<select name="unit{{ i }}">
+				<option value="">-- Select Unit --</option>
+				{% for unit in unit_list %}
+					<option value="{{ unit }}"
+						{% if selected_units.get('unit' ~ i) == unit %}selected{% endif %}>
+						{{ unit }}
+					</option>
+				{% endfor %}
+			</select><br>
+		{% endfor %}
+		<input type="submit" value="Predict">
+	</form>
+
+    {% if prediction %}
+        <div class="result">
+            <h3>Top Predictions:</h3>
+            <ul>
+                {% for unit in prediction %}
+                    <li>{{ unit }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+
+    {% if error %}
+        <div class="result" style="color: red;">
+            <strong>Error:</strong> {{ error }}
+        </div>
+    {% endif %}
+</body>
+</html>

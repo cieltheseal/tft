@@ -63,6 +63,9 @@ def get_matches_info(matches, region, api_key) -> pd.DataFrame():
 
     for match in matches:
         match_info = get_match_info(match, region, api_key)
+        tft_game_type = match_info.get('tft_game_type')
+        if tft_game_type != 'standard':               # Only select ranked games
+            continue
         flat_match_resp = flatten(match_info)
         keyList = list(flat_match_resp.keys())
 
