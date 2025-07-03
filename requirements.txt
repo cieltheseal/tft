@@ -8,3 +8,6 @@ urllib3
 torch
 torchvision
 tqdm
+gunicorn
+torch
+flask

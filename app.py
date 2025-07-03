@@ -3,8 +3,10 @@ import torch
 from opt_train import BestUnitPredictor
 
 def load_model(path):
-    checkpoint = torch.load(path, map_location='cpu')  # safer for deployment
-    model = BestUnitPredictor(78)
+    checkpoint = torch.load(path, map_location='cpu')
+    embedding_weight = checkpoint["model_state_dict"]["embedding.weight"]
+    first_dim = embedding_weight.shape[0]
+    model = BestUnitPredictor(first_dim)
     model.load_state_dict(checkpoint['model_state_dict'])
     model.eval()
     return model, checkpoint['unit_to_idx'], checkpoint['idx_to_unit']

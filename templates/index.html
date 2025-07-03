@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Best Unit Predictor</title>
+    <title>Board Optimiser</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -19,7 +19,7 @@
     </style>
 </head>
 <body>
-    <h1>Best Unit Predictor</h1>
+    <h1>Board Optimiser</h1>
 	<form method="POST" action="/">
 		{% for i in range(10) %}
 			<label>Unit {{ i + 1 }}</label><br>
@@ -38,7 +38,7 @@
 
     {% if prediction %}
         <div class="result">
-            <h3>Top Predictions:</h3>
+            <h3>Best units:</h3>
             <ul>
                 {% for unit in prediction %}
                     <li>{{ unit }}</li>
