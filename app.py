@@ -22,14 +22,13 @@ def predict_best_units(model, unit_to_idx, idx_to_unit, input_units, top_k=3):
     except KeyError as e:
         raise ValueError(f"Unknown unit name: {e}")
 
-
 # app.py
 from flask import Flask, request, render_template
 
 app = Flask(__name__)
-# Load model and unit lists
+# Load model, units, and rarities, and map levels to rarities
 model, unit_to_idx, idx_to_unit = load_model("optimiser.pt")
-all_units = sorted(unit_to_idx.keys())  # This is your list of units
+all_units = sorted(unit_to_idx.keys())
 
 @app.route("/", methods=["GET", "POST"])
 def index():

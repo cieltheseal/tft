@@ -1,6 +1,6 @@
 ## TFT Board Optimiser
 
-This project builds a machine learning pipeline to recommend the best unit to add to a given board in **Teamfight Tactics (TFT)**. It uses real match data from top-tier players, retrieved via Riot API, and trains a PyTorch model to predict the optimal additional unit.
+This project builds a machine learning pipeline to recommend the best unit to add to a given board in **Teamfight Tactics (TFT)**. It uses real match data from top-tier players, retrieved via Riot API, and trains a PyTorch model to predict the optimal additional unit. The optimiser can be found at https://tft-board-optimiser.onrender.com.
 
 ---
 
@@ -55,17 +55,3 @@ This project builds a machine learning pipeline to recommend the best unit to ad
     During validation, only one pair is generated per board to reduce redundancy and prevent data leakage.
 
     Top-3 predicted units are output visually as there can be multiple viable options depending on the game state.
-
----
-
-## Installation
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/cieltheseal/tft1.git
-   cd tft1
-
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Run ETL.py, opt_train.py, and opt_run.py in that order.
