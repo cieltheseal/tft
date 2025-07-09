@@ -11,3 +11,4 @@ tqdm
 gunicorn
 torch
 flask
+dotenv
