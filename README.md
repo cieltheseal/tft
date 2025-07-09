@@ -55,3 +55,11 @@ This project builds a machine learning pipeline to recommend the best unit to ad
     During validation, only one pair is generated per board to reduce redundancy and prevent data leakage.
 
     Top-3 predicted units are output visually as there can be multiple viable options depending on the game state.
+
+---
+
+## Instructions
+
+1. ETL
+    
+    Create an instance of a Prefect server and run etl.py.

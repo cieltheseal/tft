@@ -8,7 +8,10 @@ from transform import *
 import pandas as pd
 import urllib
 import pyodbc
+
 from sqlalchemy import create_engine
+from sqlalchemy.types import JSON
+
 import concurrent.futures
 import os
 import time
@@ -48,8 +51,8 @@ def run_pipeline_for_platform(platform: str, api_key: str, n_matches: int = 10):
         print(f"❌ Error in pipeline for {platform}: {e}")
         return pd.DataFrame()
 
-@task
-def transform_data_pipeline(df: pd.DataFrame) -> None:
+@task(cache_policy=None)
+def transform_data_pipeline(df: pd.DataFrame, engine=None) -> None:
     # Analysis pipeline
     pipe_analysis = Pipeline([
         ("dropempty", DropEmptyColumns()),
@@ -58,8 +61,12 @@ def transform_data_pipeline(df: pd.DataFrame) -> None:
     ])
 
     df = pipe_analysis.fit_transform(df)
-    df.to_csv('data/analysis.csv', index=False)
-    print(f"✅ Saved analysis.csv ({df.shape})")
+    if engine==None:
+        df.to_csv('data/analysis.csv', index=False)
+        print(f"✅ Saved analysis.csv ({df.shape}).")
+    else:
+        df.to_sql('analysis', engine, if_exists='replace', index=False)
+        print(f"✅ Saved analysis table ({df.shape}).")
 
     # Optimizer pipeline
     pipe_opt = Pipeline([
@@ -69,10 +76,15 @@ def transform_data_pipeline(df: pd.DataFrame) -> None:
     df = pipe_opt.fit_transform(df)
 
     train, val = generate_unit_training_pairs(df)
-    train.to_csv('data/train_opt.csv', index=False)
-    val.to_csv('data/val_opt.csv', index=False)
+    if engine==None:
+        train.to_csv('data/train_opt.csv', index=False)
+        val.to_csv('data/val_opt.csv', index=False)
+        print(f"✅ Saved train_opt.csv ({train.shape}) and val_opt.csv ({val.shape}).")
+    else:
+        train.to_sql("train_opt", engine, if_exists="replace", index=False, dtype={"input_units": JSON})
+        val.to_sql("val_opt", engine, if_exists="replace", index=False, dtype={"input_units": JSON})
+        print(f"✅ Saved train ({train.shape}) and val ({val.shape}) tables.")
 
-    print(f"✅ Saved train_opt.csv ({train.shape}) and val_opt.csv ({val.shape})")
 
 #------------------------
 # Flow
@@ -80,19 +92,36 @@ def transform_data_pipeline(df: pd.DataFrame) -> None:
 
 @flow(name="etl-flow")
 def etl_flow():
+    # Read credentials from .env
     load_dotenv('.env')
     api_key = os.getenv('RIOT_API_KEY')
+    db_user = os.getenv("DB_USER")
+    db_password = os.getenv("DB_PASSWORD")
+    db_host = os.getenv("DB_HOST")
+    db_port = os.getenv("DB_PORT")
+    db_name = os.getenv("DB_NAME")
+
+    engine = create_engine(
+        f"postgresql+psycopg2://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}"
+    )
 
     # Run each platform concurrently
-    with concurrent.futures.ThreadPoolExecutor() as executor:
-        futures = [executor.submit(run_pipeline_for_platform.fn, platform, api_key) for platform in platforms]
-        results = [f.result() for f in concurrent.futures.as_completed(futures)]
+    try:
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            futures = [executor.submit(run_pipeline_for_platform.fn, platform, api_key) for platform in platforms]
+            results = [f.result(timeout=10) for f in concurrent.futures.as_completed(futures)]
+    except concurrent.futures.FuturesTimeoutError:
+        print(f"⚠️ Timeout")
+        return None
+    except Exception as e:
+        print(f"❌ Error: {e}")
+        return None
 
     # Merge all non-empty DataFrames
     dfs = [df for df in results if not df.empty]
     if dfs:
         full_df = pd.concat(dfs, ignore_index=True)
-        transform_data_pipeline(full_df)
+        transform_data_pipeline(full_df, engine)
     else:
         print("⚠️ No data to process")
 

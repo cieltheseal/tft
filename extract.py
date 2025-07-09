@@ -60,7 +60,7 @@ def get_match_info(match_id, region, api_key) -> dict:
 
 def get_matches_info(matches, region, api_key) -> pd.DataFrame():
     match_data = pd.DataFrame()
-    print("Obtaining match data.")
+    print("Obtaining match data...")
 
     for match in matches:
         time.sleep(1)

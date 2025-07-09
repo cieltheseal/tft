@@ -4,15 +4,48 @@ from torch.utils.data import Dataset, DataLoader
 import pandas as pd
 import ast
 import os
+from sqlalchemy import create_engine
+from dotenv import load_dotenv
 
 # ----------------------------
 # Load CSV Data
 # ----------------------------
 def load_data_from_csv(path):
     df = pd.read_csv(path)
-    # Ensure list format from stringified list
+
     df["input_units"] = df["input_units"].apply(ast.literal_eval)
-    samples = [{"input_units": row["input_units"], "target_unit": row["label_unit"]} for _, row in df.iterrows()]
+    samples = [
+        {"input_units": row["input_units"], "target_unit": row["label_unit"]}
+        for _, row in df.iterrows()
+    ]
+    return samples
+
+# ----------------------------
+# Load from SQL database
+# ----------------------------
+def load_data_from_db(table_name):
+    # Load DB credentials
+    load_dotenv()
+    db_user = os.getenv("DB_USER")
+    db_password = os.getenv("DB_PASSWORD")
+    db_host = os.getenv("DB_HOST")
+    db_port = os.getenv("DB_PORT")
+    db_name = os.getenv("DB_NAME")
+
+    # Create SQLAlchemy engine
+    engine = create_engine(
+        f"postgresql+psycopg2://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}"
+    )
+
+    # Read table into DataFrame
+    df = pd.read_sql_table(table_name, con=engine)
+
+    #df["input_units"] = df["input_units"].apply(ast.literal_eval)
+    samples = [
+        {"input_units": row["input_units"], "target_unit": row["label_unit"]}
+        for _, row in df.iterrows()
+    ]
+
     return samples
 
 # ----------------------------
@@ -129,9 +162,9 @@ def validate_model(model, dataloader, criterion, device):
 # ----------------------------
 # Main Training Function
 # ----------------------------
-def run_training(train_csv_path, val_csv_path, epochs=10, batch_size=32):
-    train_samples = load_data_from_csv(train_csv_path)
-    val_samples = load_data_from_csv(val_csv_path)
+def run_training(train_table, val_table, epochs, batch_size=32):
+    train_samples = load_data_from_db(train_table)
+    val_samples = load_data_from_db(val_table)
 
     unit_to_idx, idx_to_unit = build_vocab(train_samples + val_samples)
     pad_idx = unit_to_idx["<PAD>"]
@@ -158,13 +191,9 @@ def run_training(train_csv_path, val_csv_path, epochs=10, batch_size=32):
 # Run Training From CSV
 # ----------------------------
 if __name__ == "__main__":
-    # Example usage — replace with your actual CSV paths
-    train_csv = "data/train_opt.csv"
-    val_csv = "data/val_opt.csv"
-
-    assert os.path.exists(train_csv) and os.path.exists(val_csv), "CSV files not found."
-
-    model, unit_to_idx, idx_to_unit = run_training(train_csv, val_csv, epochs=20)
+    train_path = "train_opt"
+    val_path = "val_opt"
+    model, unit_to_idx, idx_to_unit = run_training(train_path, val_path, epochs=50)
 
     # Save model state and mappings
     torch.save({
